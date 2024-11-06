@@ -54,6 +54,7 @@
 - [java](#java)
 - [javascript](#javascript)
 - [jquery](#jquery)
+- [js](#js)
 - [json](#json)
 - [kubernetes](#kubernetes)
 - [laravel](#laravel)
@@ -123,6 +124,7 @@
 
 ## ai 
 
+- [yamadashy/repomix](https://github.com/yamadashy/repomix) - 📦 Repomix (formerly Repopack) is a powerful tool that packs your entire repository into a single, AI-friendly file. Perfect for when you need to feed your codebase to Large Language Models (LLMs) or o
 - [open-webui/open-webui](https://github.com/open-webui/open-webui) - User-friendly AI Interface (Supports Ollama, OpenAI API, ...)
 - [andrei-zgirvaci/expo-stable-diffusion](https://github.com/andrei-zgirvaci/expo-stable-diffusion) - Run Stable Diffusion using Core ML on iOS within your Expo & React Native App
 
@@ -185,10 +187,12 @@
 
 ## chatbot 
 
+- [yamadashy/repomix](https://github.com/yamadashy/repomix) - 📦 Repomix (formerly Repopack) is a powerful tool that packs your entire repository into a single, AI-friendly file. Perfect for when you need to feed your codebase to Large Language Models (LLMs) or o
 - [xtekky/gpt4free](https://github.com/xtekky/gpt4free) - The official gpt4free repository | various collection of powerful language models
 
 ## chatgpt 
 
+- [yamadashy/repomix](https://github.com/yamadashy/repomix) - 📦 Repomix (formerly Repopack) is a powerful tool that packs your entire repository into a single, AI-friendly file. Perfect for when you need to feed your codebase to Large Language Models (LLMs) or o
 - [xtekky/gpt4free](https://github.com/xtekky/gpt4free) - The official gpt4free repository | various collection of powerful language models
 
 ## chatgpt-api 
@@ -231,6 +235,7 @@
 
 ## deno 
 
+- [panva/jose](https://github.com/panva/jose) - JWA, JWS, JWE, JWT, JWK, JWKS for Node.js, Browser, Cloudflare Workers, Deno, Bun, and other Web-interoperable runtimes
 - [honojs/hono](https://github.com/honojs/hono) - Web framework built on Web Standards
 
 ## deployment 
@@ -354,6 +359,7 @@
 
 ## hacktoberfest 
 
+- [panva/jose](https://github.com/panva/jose) - JWA, JWS, JWE, JWT, JWK, JWKS for Node.js, Browser, Cloudflare Workers, Deno, Bun, and other Web-interoperable runtimes
 - [pelican-dev/panel](https://github.com/pelican-dev/panel) - 
 - [grafana/grafana](https://github.com/grafana/grafana) - The open and composable observability and data visualization platform. Visualize metrics, logs, and traces from multiple sources like Prometheus, Loki, Elasticsearch, InfluxDB, Postgres and many more.
 - [grafana/loki](https://github.com/grafana/loki) - Like Prometheus, but for logs.
@@ -423,6 +429,7 @@
 
 ## javascript 
 
+- [yamadashy/repomix](https://github.com/yamadashy/repomix) - 📦 Repomix (formerly Repopack) is a powerful tool that packs your entire repository into a single, AI-friendly file. Perfect for when you need to feed your codebase to Large Language Models (LLMs) or o
 - [ionic-team/capacitor](https://github.com/ionic-team/capacitor) - Build cross-platform Native Progressive Web Apps for iOS, Android, and the Web ⚡️
 - [WrathChaos/react-native-bouncy-checkbox](https://github.com/WrathChaos/react-native-bouncy-checkbox) - Fully customizable animated bouncy checkbox for React Native
 - [arunabhverma/expo-blur-menu](https://github.com/arunabhverma/expo-blur-menu) - 📱 Blur Menu inspired by iMessage, using expo, blur and reanimated  🎉
@@ -442,6 +449,10 @@
 ## jquery 
 
 - [modoboa/modoboa](https://github.com/modoboa/modoboa) - Mail hosting made simple
+
+## js 
+
+- [yamadashy/repomix](https://github.com/yamadashy/repomix) - 📦 Repomix (formerly Repopack) is a powerful tool that packs your entire repository into a single, AI-friendly file. Perfect for when you need to feed your codebase to Large Language Models (LLMs) or o
 
 ## json 
 
@@ -471,6 +482,7 @@
 
 ## llm 
 
+- [yamadashy/repomix](https://github.com/yamadashy/repomix) - 📦 Repomix (formerly Repopack) is a powerful tool that packs your entire repository into a single, AI-friendly file. Perfect for when you need to feed your codebase to Large Language Models (LLMs) or o
 - [open-webui/open-webui](https://github.com/open-webui/open-webui) - User-friendly AI Interface (Supports Ollama, OpenAI API, ...)
 
 ## low-code 
@@ -535,11 +547,13 @@
 
 ## node 
 
+- [panva/jose](https://github.com/panva/jose) - JWA, JWS, JWE, JWT, JWK, JWKS for Node.js, Browser, Cloudflare Workers, Deno, Bun, and other Web-interoperable runtimes
 - [expo/expo-server-sdk-node](https://github.com/expo/expo-server-sdk-node) - Server-side library for working with the Expo push notification service using Node.js
 - [gethomepage/homepage](https://github.com/gethomepage/homepage) - A highly customizable homepage (or startpage / application dashboard) with Docker and service API integrations.
 
 ## nodejs 
 
+- [yamadashy/repomix](https://github.com/yamadashy/repomix) - 📦 Repomix (formerly Repopack) is a powerful tool that packs your entire repository into a single, AI-friendly file. Perfect for when you need to feed your codebase to Large Language Models (LLMs) or o
 - [verdaccio/verdaccio](https://github.com/verdaccio/verdaccio) - 📦🔐 A lightweight Node.js private proxy registry
 - [oven-sh/bun](https://github.com/oven-sh/bun) - Incredibly fast JavaScript runtime, bundler, test runner, and package manager – all in one
 - [outline/outline](https://github.com/outline/outline) - The fastest knowledge base for growing teams. Beautiful, realtime collaborative, feature packed, and markdown compatible.
@@ -562,6 +576,7 @@
 
 ## openai 
 
+- [yamadashy/repomix](https://github.com/yamadashy/repomix) - 📦 Repomix (formerly Repopack) is a powerful tool that packs your entire repository into a single, AI-friendly file. Perfect for when you need to feed your codebase to Large Language Models (LLMs) or o
 - [open-webui/open-webui](https://github.com/open-webui/open-webui) - User-friendly AI Interface (Supports Ollama, OpenAI API, ...)
 - [xtekky/gpt4free](https://github.com/xtekky/gpt4free) - The official gpt4free repository | various collection of powerful language models
 
@@ -575,6 +590,7 @@
 
 ## others 
 
+- [vincentvella/icon-builder](https://github.com/vincentvella/icon-builder) - App Icon Builder
 - [FalsePhilosopher/badusb](https://github.com/FalsePhilosopher/badusb) - Flipper Zero badusb payload library
 - [centrifugal/centrifugo](https://github.com/centrifugal/centrifugo) - Scalable real-time messaging server in a language-agnostic way. Self-hosted alternative to Pubnub, Pusher, Ably. Set up once and forever.
 - [UberGuidoZ/Flipper-IRDB](https://github.com/UberGuidoZ/Flipper-IRDB) - A collective of different IRs for the Flipper (maintained)
@@ -844,6 +860,7 @@
 
 ## typescript 
 
+- [yamadashy/repomix](https://github.com/yamadashy/repomix) - 📦 Repomix (formerly Repopack) is a powerful tool that packs your entire repository into a single, AI-friendly file. Perfect for when you need to feed your codebase to Large Language Models (LLMs) or o
 - [arunabhverma/expo-blur-menu](https://github.com/arunabhverma/expo-blur-menu) - 📱 Blur Menu inspired by iMessage, using expo, blur and reanimated  🎉
 - [oven-sh/bun](https://github.com/oven-sh/bun) - Incredibly fast JavaScript runtime, bundler, test runner, and package manager – all in one
 - [refinedev/refine](https://github.com/refinedev/refine) - A React Framework for building  internal tools, admin panels, dashboards & B2B apps with unmatched flexibility.
