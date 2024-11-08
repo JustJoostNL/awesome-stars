@@ -200,6 +200,8 @@
 
 ## TypeScript 
 
+- [nandorojo/zeego](https://github.com/nandorojo/zeego) - Menus for React (Native) done right.
+- [zoontek/react-native-edge-to-edge](https://github.com/zoontek/react-native-edge-to-edge) - Effortlessly enable edge-to-edge display in React Native (formerly known as react-native-bars).
 - [panva/jose](https://github.com/panva/jose) - JWA, JWS, JWE, JWT, JWK, JWKS for Node.js, Browser, Cloudflare Workers, Deno, Bun, and other Web-interoperable runtimes
 - [vincentvella/icon-builder](https://github.com/vincentvella/icon-builder) - App Icon Builder
 - [yamadashy/repomix](https://github.com/yamadashy/repomix) - 📦 Repomix (formerly Repopack) is a powerful tool that packs your entire repository into a single, AI-friendly file. Perfect for when you need to feed your codebase to Large Language Models (LLMs) or o
