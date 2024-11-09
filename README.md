@@ -65,6 +65,7 @@
 
 ## Go 
 
+- [AlexxIT/go2rtc](https://github.com/AlexxIT/go2rtc) - Ultimate camera streaming application with support RTSP, RTMP, HTTP-FLV, WebRTC, MSE, HLS, MP4, MJPEG, HomeKit, FFmpeg, etc.
 - [MightyMoud/sidekick](https://github.com/MightyMoud/sidekick) - Bare metal to production ready in mins; your own fly server on your VPS.
 - [majd/ipatool](https://github.com/majd/ipatool) - Command-line tool that allows searching and downloading app packages (known as ipa files) from the iOS App Store
 - [grafana/loki](https://github.com/grafana/loki) - Like Prometheus, but for logs.
@@ -98,6 +99,7 @@
 
 ## JavaScript 
 
+- [bluewave-labs/bluewave-uptime](https://github.com/bluewave-labs/bluewave-uptime) - BlueWave Uptime is an open-source, self-hosted monitoring tool built with React.js, Node.js, and MongoDB, designed to track server uptime, response times, and incidents in real-time with beautiful vis
 - [dotenvx/dotenvx](https://github.com/dotenvx/dotenvx) - a better dotenv–from the creator of `dotenv`
 - [diegomura/react-pdf](https://github.com/diegomura/react-pdf) - 📄  Create PDF files using React
 - [evershopcommerce/evershop](https://github.com/evershopcommerce/evershop) - 🛍️ NodeJS E-commerce Platform
@@ -200,6 +202,7 @@
 
 ## TypeScript 
 
+- [wesbos/R2-video-streaming](https://github.com/wesbos/R2-video-streaming) - Streaming video on Cloudflare R2
 - [nandorojo/zeego](https://github.com/nandorojo/zeego) - Menus for React (Native) done right.
 - [zoontek/react-native-edge-to-edge](https://github.com/zoontek/react-native-edge-to-edge) - Effortlessly enable edge-to-edge display in React Native (formerly known as react-native-bars).
 - [panva/jose](https://github.com/panva/jose) - JWA, JWS, JWE, JWT, JWK, JWKS for Node.js, Browser, Cloudflare Workers, Deno, Bun, and other Web-interoperable runtimes
