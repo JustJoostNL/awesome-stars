@@ -47,6 +47,7 @@
 - [good-first-issue](#good-first-issue)
 - [graphql](#graphql)
 - [hacktoberfest](#hacktoberfest)
+- [home-assistant](#home-assistant)
 - [html](#html)
 - [https](#https)
 - [ios](#ios)
@@ -349,6 +350,7 @@
 
 ## good-first-issue 
 
+- [bluewave-labs/bluewave-uptime](https://github.com/bluewave-labs/bluewave-uptime) - BlueWave Uptime is an open-source, self-hosted monitoring tool built with React.js, Node.js, and MongoDB, designed to track server uptime, response times, and incidents in real-time with beautiful vis
 - [refinedev/refine](https://github.com/refinedev/refine) - A React Framework for building  internal tools, admin panels, dashboards & B2B apps with unmatched flexibility.
 
 ## graphql 
@@ -381,6 +383,10 @@
 - [getanteon/anteon](https://github.com/getanteon/anteon) - Anteon (formerly Ddosify) - Effortless Kubernetes Monitoring and Performance Testing. Available on CLI, Self-Hosted, and Cloud
 - [YOURLS/YOURLS](https://github.com/YOURLS/YOURLS) - 🔗 The de facto standard self hosted URL shortener in PHP
 - [Prowlarr/Prowlarr](https://github.com/Prowlarr/Prowlarr) - Prowlarr is an indexer manager/proxy built on the popular *arr .net/reactjs base stack to integrate with your various PVR apps, supporting management of both Torrent Trackers and Usenet Indexers.
+
+## home-assistant 
+
+- [AlexxIT/go2rtc](https://github.com/AlexxIT/go2rtc) - Ultimate camera streaming application with support RTSP, RTMP, HTTP-FLV, WebRTC, MSE, HLS, MP4, MJPEG, HomeKit, FFmpeg, etc.
 
 ## html 
 
@@ -590,6 +596,7 @@
 
 ## others 
 
+- [wesbos/R2-video-streaming](https://github.com/wesbos/R2-video-streaming) - Streaming video on Cloudflare R2
 - [nandorojo/zeego](https://github.com/nandorojo/zeego) - Menus for React (Native) done right.
 - [vincentvella/icon-builder](https://github.com/vincentvella/icon-builder) - App Icon Builder
 - [FalsePhilosopher/badusb](https://github.com/FalsePhilosopher/badusb) - Flipper Zero badusb payload library
