@@ -31,6 +31,7 @@
 - [discord](#discord)
 - [django](#django)
 - [docker](#docker)
+- [education](#education)
 - [electron](#electron)
 - [elixir](#elixir)
 - [firefox](#firefox)
@@ -70,6 +71,7 @@
 - [mobile](#mobile)
 - [mongodb](#mongodb)
 - [monitoring](#monitoring)
+- [music](#music)
 - [mysql](#mysql)
 - [nativescript](#nativescript)
 - [nestjs](#nestjs)
@@ -278,6 +280,10 @@
 - [diced/zipline](https://github.com/diced/zipline) - A ShareX/file upload server that is easy to use, packed with features, and with an easy setup!
 - [gethomepage/homepage](https://github.com/gethomepage/homepage) - A highly customizable homepage (or startpage / application dashboard) with Docker and service API integrations.
 - [sickcodes/Docker-OSX](https://github.com/sickcodes/Docker-OSX) - Run macOS VM in a Docker! Run near native OSX-KVM in Docker! X11 Forwarding! CI/CD for OS X Security Research! Docker mac Containers.
+
+## education 
+
+- [sonic-pi-net/sonic-pi](https://github.com/sonic-pi-net/sonic-pi) - Code. Music. Live.
 
 ## electron 
 
@@ -544,6 +550,10 @@
 - [TwiN/gatus](https://github.com/TwiN/gatus) - ⛑ Automated developer-oriented status page
 - [OneUptime/oneuptime](https://github.com/OneUptime/oneuptime) - OneUptime is the complete open-source observability platform.
 
+## music 
+
+- [sonic-pi-net/sonic-pi](https://github.com/sonic-pi-net/sonic-pi) - Code. Music. Live.
+
 ## mysql 
 
 - [grafana/grafana](https://github.com/grafana/grafana) - The open and composable observability and data visualization platform. Visualize metrics, logs, and traces from multiple sources like Prometheus, Loki, Elasticsearch, InfluxDB, Postgres and many more.
@@ -749,6 +759,7 @@
 
 ## react-native 
 
+- [craftzdog/react-native-quick-base64](https://github.com/craftzdog/react-native-quick-base64) - A fast base64 module for React Native
 - [EvanBacon/pillar-valley](https://github.com/EvanBacon/pillar-valley) - 👾A cross-platform video game built with Expo and three.js
 - [EvanBacon/expo-quick-actions](https://github.com/EvanBacon/expo-quick-actions) - Add home screen quick actions / shortcuts to your React Native app
 - [zoontek/react-native-edge-to-edge](https://github.com/zoontek/react-native-edge-to-edge) - Effortlessly enable edge-to-edge display in React Native (formerly known as react-native-bars).
