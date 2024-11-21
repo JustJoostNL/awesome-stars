@@ -776,6 +776,7 @@
 
 ## react-native 
 
+- [xavia-io/xavia-ota](https://github.com/xavia-io/xavia-ota) - A self-hosted Over-The-Air (OTA) updates server for Expo/RN applications that gives you complete control over your app's update distribution.
 - [craftzdog/react-native-quick-base64](https://github.com/craftzdog/react-native-quick-base64) - A fast base64 module for React Native
 - [EvanBacon/pillar-valley](https://github.com/EvanBacon/pillar-valley) - 👾A cross-platform video game built with Expo and three.js
 - [EvanBacon/expo-quick-actions](https://github.com/EvanBacon/expo-quick-actions) - Add home screen quick actions / shortcuts to your React Native app
