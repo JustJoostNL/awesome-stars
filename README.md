@@ -208,6 +208,7 @@
 
 ## TypeScript 
 
+- [blake-simpson/expo-jwt](https://github.com/blake-simpson/expo-jwt) - Encode and decode JSON Web Tokens (JWT) in an Expo based React Native project.
 - [LegendApp/legend-list](https://github.com/LegendApp/legend-list) - 
 - [Vencord/Vesktop](https://github.com/Vencord/Vesktop) - Vesktop is a custom Discord App aiming to give you better performance and improve linux support
 - [DefGuard/defguard](https://github.com/DefGuard/defguard) - Zero-Trust access management with true WireGuard® 2FA/MFA
