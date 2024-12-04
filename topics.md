@@ -639,6 +639,7 @@
 
 ## others 
 
+- [blake-simpson/expo-jwt](https://github.com/blake-simpson/expo-jwt) - Encode and decode JSON Web Tokens (JWT) in an Expo based React Native project.
 - [thisuxhq/fli.so](https://github.com/thisuxhq/fli.so) - Shorten, customize, and track your links with Fli.so. The easiest way to manage your links, all in one platform.
 - [LegendApp/legend-list](https://github.com/LegendApp/legend-list) - 
 - [Vencord/Vesktop](https://github.com/Vencord/Vesktop) - Vesktop is a custom Discord App aiming to give you better performance and improve linux support
