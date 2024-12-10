@@ -10,6 +10,7 @@
 - [analytics](#analytics)
 - [android](#android)
 - [api](#api)
+- [artificial-intelligence](#artificial-intelligence)
 - [awesome](#awesome)
 - [awesome-list](#awesome-list)
 - [babel](#babel)
@@ -169,6 +170,10 @@
 ## api 
 
 - [public-apis/public-apis](https://github.com/public-apis/public-apis) - A collective list of free APIs
+
+## artificial-intelligence 
+
+- [yamadashy/repomix](https://github.com/yamadashy/repomix) - 📦 Repomix (formerly Repopack) is a powerful tool that packs your entire repository into a single, AI-friendly file. Perfect for when you need to feed your codebase to Large Language Models (LLMs) or o
 
 ## awesome 
 
