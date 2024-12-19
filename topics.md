@@ -835,7 +835,7 @@
 - [callstack/react-native-pager-view](https://github.com/callstack/react-native-pager-view) - React Native wrapper for the Android ViewPager and iOS UIPageViewController.
 - [carloscuesta/react-native-error-boundary](https://github.com/carloscuesta/react-native-error-boundary) - A simple React-Native error boundary component 🐛
 - [vonovak/react-navigation-header-buttons](https://github.com/vonovak/react-navigation-header-buttons) - Easily render header buttons for react-navigation
-- [alantoa/react-native-awesome-slider](https://github.com/alantoa/react-native-awesome-slider) - 🚀 An anwesome &lt;Slider/&gt; that supports various features haptic, lottie, animation, ballon, etc.
+- [alantoa/react-native-awesome-slider](https://github.com/alantoa/react-native-awesome-slider) - 🎨 A versatile, responsive &lt;Slider /&gt; component.
 - [react-navigation/react-navigation](https://github.com/react-navigation/react-navigation) - Routing and navigation for your React Native apps
 - [aptabase/aptabase](https://github.com/aptabase/aptabase) - ✨ Open Source, Privacy-First and Simple Analytics for Mobile, Desktop and Web Apps
 - [gorhom/react-native-bottom-sheet](https://github.com/gorhom/react-native-bottom-sheet) - A performant interactive bottom sheet with fully configurable options 🚀
