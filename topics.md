@@ -815,6 +815,8 @@
 
 ## react-native 
 
+- [animate-react-native/accordion](https://github.com/animate-react-native/accordion) - A React Native Accordion component, powered by React Native Reanimated layout animation that's capable of rendering and animating content that has a dynamic height.
+- [margelo/react-native-skottie](https://github.com/margelo/react-native-skottie) - ▶️ Efficient lottie animations using Skia's Skottie module
 - [MaxAst/expo-share-extension](https://github.com/MaxAst/expo-share-extension) - Expo config plugin for creating iOS share extensions with a custom view.
 - [xavia-io/xavia-ota](https://github.com/xavia-io/xavia-ota) - A self-hosted Over-The-Air (OTA) updates server for Expo/RN applications that gives you complete control over your app's update distribution.
 - [craftzdog/react-native-quick-base64](https://github.com/craftzdog/react-native-quick-base64) - A fast base64 module for React Native
@@ -837,7 +839,7 @@
 - [callstack/react-native-pager-view](https://github.com/callstack/react-native-pager-view) - React Native wrapper for the Android ViewPager and iOS UIPageViewController.
 - [carloscuesta/react-native-error-boundary](https://github.com/carloscuesta/react-native-error-boundary) - A simple React-Native error boundary component 🐛
 - [vonovak/react-navigation-header-buttons](https://github.com/vonovak/react-navigation-header-buttons) - Easily render header buttons for react-navigation
-- [alantoa/react-native-awesome-slider](https://github.com/alantoa/react-native-awesome-slider) - 🎨 A versatile, responsive &lt;Slider /&gt; component.
+- [alantoa/react-native-awesome-slider](https://github.com/alantoa/react-native-awesome-slider) - 🎨 A versatile, responsive react native/web &lt;Slider /&gt; component.
 - [react-navigation/react-navigation](https://github.com/react-navigation/react-navigation) - Routing and navigation for your React Native apps
 - [aptabase/aptabase](https://github.com/aptabase/aptabase) - ✨ Open Source, Privacy-First and Simple Analytics for Mobile, Desktop and Web Apps
 - [gorhom/react-native-bottom-sheet](https://github.com/gorhom/react-native-bottom-sheet) - A performant interactive bottom sheet with fully configurable options 🚀
