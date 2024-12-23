@@ -104,6 +104,7 @@
 
 ## JavaScript 
 
+- [wneel/react-native-get-device-locale](https://github.com/wneel/react-native-get-device-locale) - A lightweight and efficient React Native turbo module that provides easy access to the device's locale.
 - [actualbudget/actual-server](https://github.com/actualbudget/actual-server) - Actual's server
 - [fluent-ffmpeg/node-fluent-ffmpeg](https://github.com/fluent-ffmpeg/node-fluent-ffmpeg) - A fluent API to FFMPEG (http://www.ffmpeg.org)
 - [bluewave-labs/checkmate](https://github.com/bluewave-labs/checkmate) - Checkmate is an open-source, self-hosted tool designed to track and monitor server hardware, uptime, response times, and incidents in real-time with beautiful visualizations.
