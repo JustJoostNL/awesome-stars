@@ -671,6 +671,7 @@
 
 ## others 
 
+- [wneel/react-native-get-device-locale](https://github.com/wneel/react-native-get-device-locale) - A lightweight and efficient React Native turbo module that provides easy access to the device's locale.
 - [dirkhh/adsb-feeder-image](https://github.com/dirkhh/adsb-feeder-image) - Easy to use turn-key SD card image for a number of popular single board computers to run a complete ADS-B feeder
 - [actualbudget/actual-server](https://github.com/actualbudget/actual-server) - Actual's server
 - [blake-simpson/expo-jwt](https://github.com/blake-simpson/expo-jwt) - Encode and decode JSON Web Tokens (JWT) in an Expo based React Native project.
