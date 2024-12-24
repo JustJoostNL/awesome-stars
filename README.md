@@ -104,7 +104,6 @@
 
 ## JavaScript 
 
-- [wneel/react-native-get-device-locale](https://github.com/wneel/react-native-get-device-locale) - A lightweight and efficient React Native turbo module that provides easy access to the device's locale.
 - [actualbudget/actual-server](https://github.com/actualbudget/actual-server) - Actual's server
 - [fluent-ffmpeg/node-fluent-ffmpeg](https://github.com/fluent-ffmpeg/node-fluent-ffmpeg) - A fluent API to FFMPEG (http://www.ffmpeg.org)
 - [bluewave-labs/checkmate](https://github.com/bluewave-labs/checkmate) - Checkmate is an open-source, self-hosted tool designed to track and monitor server hardware, uptime, response times, and incidents in real-time with beautiful visualizations.
@@ -220,6 +219,7 @@
 
 ## TypeScript 
 
+- [home-assistant-libs/python-matter-server](https://github.com/home-assistant-libs/python-matter-server) - Python server to interact with Matter
 - [th3rdwave/react-native-safe-area-context](https://github.com/th3rdwave/react-native-safe-area-context) - A flexible way to handle safe area insets in JS. Also works on Android and Web!
 - [opennextjs/opennextjs-cloudflare](https://github.com/opennextjs/opennextjs-cloudflare) - Open Next.js adapter for Cloudflare
 - [animate-react-native/accordion](https://github.com/animate-react-native/accordion) - A React Native Accordion component, powered by React Native Reanimated layout animation that's capable of rendering and animating content that has a dynamic height.
