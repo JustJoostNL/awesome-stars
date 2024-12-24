@@ -618,7 +618,6 @@
 - [Peppermint-Lab/peppermint](https://github.com/Peppermint-Lab/peppermint) - An open source issue management & help desk solution. A zendesk & jira alternative
 - [refinedev/refine](https://github.com/refinedev/refine) - A React Framework for building  internal tools, admin panels, dashboards & B2B apps with unmatched flexibility.
 - [dubinc/dub](https://github.com/dubinc/dub) - Open-source link management infrastructure. Loved by modern marketing teams like Twilio, Perplexity, Vercel, and Huberman Labs.
-- [thedevs-network/kutt](https://github.com/thedevs-network/kutt) - Free Modern URL Shortener.
 - [diced/zipline](https://github.com/diced/zipline) - A ShareX/file upload server that is easy to use, packed with features, and with an easy setup!
 - [gethomepage/homepage](https://github.com/gethomepage/homepage) - A highly customizable homepage (or startpage / application dashboard) with Docker and service API integrations.
 
@@ -671,7 +670,7 @@
 
 ## others 
 
-- [wneel/react-native-get-device-locale](https://github.com/wneel/react-native-get-device-locale) - A lightweight and efficient React Native turbo module that provides easy access to the device's locale.
+- [home-assistant-libs/python-matter-server](https://github.com/home-assistant-libs/python-matter-server) - Python server to interact with Matter
 - [dirkhh/adsb-feeder-image](https://github.com/dirkhh/adsb-feeder-image) - Easy to use turn-key SD card image for a number of popular single board computers to run a complete ADS-B feeder
 - [actualbudget/actual-server](https://github.com/actualbudget/actual-server) - Actual's server
 - [blake-simpson/expo-jwt](https://github.com/blake-simpson/expo-jwt) - Encode and decode JSON Web Tokens (JWT) in an Expo based React Native project.
@@ -720,6 +719,7 @@
 - [bengarney/list-of-streams](https://github.com/bengarney/list-of-streams) - Community list of public test streams for HLS and DASH.
 - [TheBaconCat/rainviewer-f1](https://github.com/TheBaconCat/rainviewer-f1) - 
 - [mrpond/BlockTheSpot](https://github.com/mrpond/BlockTheSpot) - Video, audio & banner adblock/skip for Spotify
+- [thedevs-network/kutt](https://github.com/thedevs-network/kutt) - Free Modern URL Shortener.
 - [Ctrlpanel-gg/panel](https://github.com/Ctrlpanel-gg/panel) - CtrlPanel offers an easy-to-use and free billing solution for all starting and experienced hosting providers that seamlessly integrates with the Pterodactyl panel.
 - [9p4/jellyfin-plugin-sso](https://github.com/9p4/jellyfin-plugin-sso) - This plugin allows users to sign in through an SSO provider (such as Google, Microsoft, or your own provider). This enables one-click signin.
 - [MarkusTheOrt/FIA-Docs-Discord-Bot](https://github.com/MarkusTheOrt/FIA-Docs-Discord-Bot) - 
@@ -816,7 +816,6 @@
 - [mrousavy/react-native-mmkv](https://github.com/mrousavy/react-native-mmkv) - ⚡️ The fastest key/value storage for React Native. ~30x faster than AsyncStorage!
 - [facebook/react-native](https://github.com/facebook/react-native) - A framework for building native applications using React
 - [expo/expo](https://github.com/expo/expo) - An open-source framework for making universal native apps with React. Expo runs on Android, iOS, and the web.
-- [thedevs-network/kutt](https://github.com/thedevs-network/kutt) - Free Modern URL Shortener.
 - [Just-Moh-it/Pckd](https://github.com/Just-Moh-it/Pckd) - The ⚡️ analytics-intensive, self-hostable link-shortener with a beautiful UI | AKA free bit.ly alternative 🚀
 - [electron-vite/electron-vite-react](https://github.com/electron-vite/electron-vite-react) - :electron: Electron + Vite + React + Sass boilerplate.
 - [gethomepage/homepage](https://github.com/gethomepage/homepage) - A highly customizable homepage (or startpage / application dashboard) with Docker and service API integrations.
