@@ -691,6 +691,7 @@
 
 ## others 
 
+- [sanjoyg/dirigera_platform](https://github.com/sanjoyg/dirigera_platform) - HomeAssistant Integration for Dirigera Platform
 - [home-assistant-libs/python-matter-server](https://github.com/home-assistant-libs/python-matter-server) - Python server to interact with Matter
 - [dirkhh/adsb-feeder-image](https://github.com/dirkhh/adsb-feeder-image) - Easy to use turn-key SD card image for a number of popular single board computers to run a complete ADS-B feeder
 - [actualbudget/actual-server](https://github.com/actualbudget/actual-server) - Actual's server
