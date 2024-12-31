@@ -151,6 +151,7 @@
 
 ## android 
 
+- [alabsi91/reanimated-color-picker](https://github.com/alabsi91/reanimated-color-picker) - A Pure JavaScript Color Picker for React Native
 - [douglasjunior/react-native-simple-dialogs](https://github.com/douglasjunior/react-native-simple-dialogs) - ⚛ Cross-platform React Native dialogs based on the Modal component
 - [th3rdwave/react-native-safe-area-context](https://github.com/th3rdwave/react-native-safe-area-context) - A flexible way to handle safe area insets in JS. Also works on Android and Web!
 - [lodev09/react-native-true-sheet](https://github.com/lodev09/react-native-true-sheet) - The true native bottom sheet experience 💩
@@ -414,6 +415,7 @@
 
 ## hacktoberfest 
 
+- [react-native-menu/menu](https://github.com/react-native-menu/menu) - UIMenu Component for React Native
 - [Clooos/Bubble-Card](https://github.com/Clooos/Bubble-Card) - Bubble Card is a minimalist card collection for Home Assistant with a nice pop-up touch.
 - [douglasjunior/react-native-simple-dialogs](https://github.com/douglasjunior/react-native-simple-dialogs) - ⚛ Cross-platform React Native dialogs based on the Modal component
 - [flipt-io/flipt](https://github.com/flipt-io/flipt) - Enterprise-ready, GitOps enabled, CloudNative feature management solution
@@ -456,6 +458,8 @@
 
 ## ios 
 
+- [alabsi91/reanimated-color-picker](https://github.com/alabsi91/reanimated-color-picker) - A Pure JavaScript Color Picker for React Native
+- [react-native-menu/menu](https://github.com/react-native-menu/menu) - UIMenu Component for React Native
 - [douglasjunior/react-native-simple-dialogs](https://github.com/douglasjunior/react-native-simple-dialogs) - ⚛ Cross-platform React Native dialogs based on the Modal component
 - [th3rdwave/react-native-safe-area-context](https://github.com/th3rdwave/react-native-safe-area-context) - A flexible way to handle safe area insets in JS. Also works on Android and Web!
 - [lodev09/react-native-true-sheet](https://github.com/lodev09/react-native-true-sheet) - The true native bottom sheet experience 💩
@@ -533,7 +537,7 @@
 ## kotlin 
 
 - [glideapps/quicktype](https://github.com/glideapps/quicktype) - Generate types and converters from JSON, Schema, and GraphQL
-- [EvanBacon/expo-quick-actions](https://github.com/EvanBacon/expo-quick-actions) - Add home screen quick actions / shortcuts to your React Native app
+- [EvanBacon/expo-quick-actions](https://github.com/EvanBacon/expo-quick-actions) - Add home screen quick actions / shortcuts and custom icons to your Expo app
 
 ## kubernetes 
 
@@ -695,6 +699,7 @@
 
 ## others 
 
+- [iamacup/react-native-markdown-display](https://github.com/iamacup/react-native-markdown-display) - React Native 100% compatible CommonMark renderer
 - [sanjoyg/dirigera_platform](https://github.com/sanjoyg/dirigera_platform) - HomeAssistant Integration for Dirigera Platform
 - [home-assistant-libs/python-matter-server](https://github.com/home-assistant-libs/python-matter-server) - Python server to interact with Matter
 - [dirkhh/adsb-feeder-image](https://github.com/dirkhh/adsb-feeder-image) - Easy to use turn-key SD card image for a number of popular single board computers to run a complete ADS-B feeder
@@ -849,6 +854,8 @@
 
 ## react-native 
 
+- [alabsi91/reanimated-color-picker](https://github.com/alabsi91/reanimated-color-picker) - A Pure JavaScript Color Picker for React Native
+- [react-native-menu/menu](https://github.com/react-native-menu/menu) - UIMenu Component for React Native
 - [douglasjunior/react-native-simple-dialogs](https://github.com/douglasjunior/react-native-simple-dialogs) - ⚛ Cross-platform React Native dialogs based on the Modal component
 - [vercel/swr](https://github.com/vercel/swr) - React Hooks for Data Fetching
 - [th3rdwave/react-native-safe-area-context](https://github.com/th3rdwave/react-native-safe-area-context) - A flexible way to handle safe area insets in JS. Also works on Android and Web!
@@ -859,7 +866,7 @@
 - [xavia-io/xavia-ota](https://github.com/xavia-io/xavia-ota) - A self-hosted Over-The-Air (OTA) updates server for Expo/RN applications that gives you complete control over your app's update distribution.
 - [craftzdog/react-native-quick-base64](https://github.com/craftzdog/react-native-quick-base64) - A fast base64 module for React Native
 - [EvanBacon/pillar-valley](https://github.com/EvanBacon/pillar-valley) - 👾A cross-platform video game built with Expo and three.js
-- [EvanBacon/expo-quick-actions](https://github.com/EvanBacon/expo-quick-actions) - Add home screen quick actions / shortcuts to your React Native app
+- [EvanBacon/expo-quick-actions](https://github.com/EvanBacon/expo-quick-actions) - Add home screen quick actions / shortcuts and custom icons to your Expo app
 - [zoontek/react-native-edge-to-edge](https://github.com/zoontek/react-native-edge-to-edge) - Effortlessly enable edge-to-edge display in React Native (formerly known as react-native-bars).
 - [hyochan/react-native-iap](https://github.com/hyochan/react-native-iap) - In App Purchase module for React Native!
 - [RevenueCat/react-native-purchases](https://github.com/RevenueCat/react-native-purchases) - React Native in-app purchases and subscriptions made easy. Support for iOS and Android.
@@ -999,7 +1006,7 @@
 
 - [glideapps/quicktype](https://github.com/glideapps/quicktype) - Generate types and converters from JSON, Schema, and GraphQL
 - [okwasniewski/MiniSim](https://github.com/okwasniewski/MiniSim) - MacOS menu bar app for launching iOS  and Android 🤖 emulators
-- [EvanBacon/expo-quick-actions](https://github.com/EvanBacon/expo-quick-actions) - Add home screen quick actions / shortcuts to your React Native app
+- [EvanBacon/expo-quick-actions](https://github.com/EvanBacon/expo-quick-actions) - Add home screen quick actions / shortcuts and custom icons to your Expo app
 - [majd/ipatool](https://github.com/majd/ipatool) - Command-line tool that allows searching and downloading app packages (known as ipa files) from the iOS App Store
 - [ionic-team/capacitor](https://github.com/ionic-team/capacitor) - Build cross-platform Native Progressive Web Apps for iOS, Android, and the Web ⚡️
 - [aptabase/aptabase](https://github.com/aptabase/aptabase) - ✨ Open Source, Privacy-First and Simple Analytics for Mobile, Desktop and Web Apps
@@ -1056,6 +1063,7 @@
 
 ## web 
 
+- [alabsi91/reanimated-color-picker](https://github.com/alabsi91/reanimated-color-picker) - A Pure JavaScript Color Picker for React Native
 - [th3rdwave/react-native-safe-area-context](https://github.com/th3rdwave/react-native-safe-area-context) - A flexible way to handle safe area insets in JS. Also works on Android and Web!
 - [expo/expo](https://github.com/expo/expo) - An open-source framework for making universal native apps with React. Expo runs on Android, iOS, and the web.
 
