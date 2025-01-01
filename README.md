@@ -223,6 +223,7 @@
 
 ## TypeScript 
 
+- [streamyfin/streamyfin](https://github.com/streamyfin/streamyfin) - A Jellyfin client build with Expo
 - [alabsi91/reanimated-color-picker](https://github.com/alabsi91/reanimated-color-picker) - A Pure JavaScript Color Picker for React Native
 - [Clooos/Bubble-Card](https://github.com/Clooos/Bubble-Card) - Bubble Card is a minimalist card collection for Home Assistant with a nice pop-up touch.
 - [glideapps/quicktype](https://github.com/glideapps/quicktype) - Generate types and converters from JSON, Schema, and GraphQL
