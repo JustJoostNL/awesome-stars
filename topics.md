@@ -699,6 +699,7 @@
 
 ## others 
 
+- [streamyfin/streamyfin](https://github.com/streamyfin/streamyfin) - A Jellyfin client build with Expo
 - [iamacup/react-native-markdown-display](https://github.com/iamacup/react-native-markdown-display) - React Native 100% compatible CommonMark renderer
 - [sanjoyg/dirigera_platform](https://github.com/sanjoyg/dirigera_platform) - HomeAssistant Integration for Dirigera Platform
 - [home-assistant-libs/python-matter-server](https://github.com/home-assistant-libs/python-matter-server) - Python server to interact with Matter
