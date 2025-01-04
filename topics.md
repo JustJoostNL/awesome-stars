@@ -169,7 +169,7 @@
 - [wix/react-native-ui-lib](https://github.com/wix/react-native-ui-lib) - UI Components Library for React Native
 - [margelo/react-native-filament](https://github.com/margelo/react-native-filament) - 🐧 A real-time physically based 3D rendering engine for React Native
 - [margelo/react-native-graph](https://github.com/margelo/react-native-graph) - 📈 Beautiful, high-performance Graphs and Charts for React Native built with Skia
-- [baronha/ting](https://github.com/baronha/ting) - 🍞 Flexible and customizable React Native toast/alert notifications with support for positioning, custom rendering, click handlers, and duration control. Written in Swift and Kotlin
+- [NitrogenzLab/ting](https://github.com/NitrogenzLab/ting) - 🍞 Flexible and customizable React Native toast/alert notifications with support for positioning, custom rendering, click handlers, and duration control. Written in Swift and Kotlin
 - [callstack/react-native-pager-view](https://github.com/callstack/react-native-pager-view) - React Native wrapper for the Android ViewPager and iOS UIPageViewController.
 - [sensepost/objection](https://github.com/sensepost/objection) - 📱 objection - runtime mobile exploration
 - [aptabase/aptabase](https://github.com/aptabase/aptabase) - ✨ Open Source, Privacy-First and Simple Analytics for Mobile, Desktop and Web Apps
@@ -480,7 +480,7 @@
 - [wix/react-native-ui-lib](https://github.com/wix/react-native-ui-lib) - UI Components Library for React Native
 - [margelo/react-native-filament](https://github.com/margelo/react-native-filament) - 🐧 A real-time physically based 3D rendering engine for React Native
 - [margelo/react-native-graph](https://github.com/margelo/react-native-graph) - 📈 Beautiful, high-performance Graphs and Charts for React Native built with Skia
-- [baronha/ting](https://github.com/baronha/ting) - 🍞 Flexible and customizable React Native toast/alert notifications with support for positioning, custom rendering, click handlers, and duration control. Written in Swift and Kotlin
+- [NitrogenzLab/ting](https://github.com/NitrogenzLab/ting) - 🍞 Flexible and customizable React Native toast/alert notifications with support for positioning, custom rendering, click handlers, and duration control. Written in Swift and Kotlin
 - [callstack/react-native-pager-view](https://github.com/callstack/react-native-pager-view) - React Native wrapper for the Android ViewPager and iOS UIPageViewController.
 - [FiloSottile/mkcert](https://github.com/FiloSottile/mkcert) - A simple zero-config tool to make locally trusted development certificates with any names you'd like.
 - [sensepost/objection](https://github.com/sensepost/objection) - 📱 objection - runtime mobile exploration
@@ -883,7 +883,7 @@
 - [margelo/react-native-graph](https://github.com/margelo/react-native-graph) - 📈 Beautiful, high-performance Graphs and Charts for React Native built with Skia
 - [callstack/react-native-visionos](https://github.com/callstack/react-native-visionos) - A framework for building native visionOS applications using React
 - [zoontek/react-native-bootsplash](https://github.com/zoontek/react-native-bootsplash) - 🚀 Show a splash screen during app startup. Hide it when you are ready.
-- [baronha/ting](https://github.com/baronha/ting) - 🍞 Flexible and customizable React Native toast/alert notifications with support for positioning, custom rendering, click handlers, and duration control. Written in Swift and Kotlin
+- [NitrogenzLab/ting](https://github.com/NitrogenzLab/ting) - 🍞 Flexible and customizable React Native toast/alert notifications with support for positioning, custom rendering, click handlers, and duration control. Written in Swift and Kotlin
 - [callstack/react-native-pager-view](https://github.com/callstack/react-native-pager-view) - React Native wrapper for the Android ViewPager and iOS UIPageViewController.
 - [carloscuesta/react-native-error-boundary](https://github.com/carloscuesta/react-native-error-boundary) - A simple React-Native error boundary component 🐛
 - [vonovak/react-navigation-header-buttons](https://github.com/vonovak/react-navigation-header-buttons) - Easily render header buttons for react-navigation
