@@ -215,7 +215,7 @@
 
 - [okwasniewski/MiniSim](https://github.com/okwasniewski/MiniSim) - MacOS menu bar app for launching iOS  and Android 🤖 emulators
 - [rrroyal/Harbour](https://github.com/rrroyal/Harbour) - Docker/Portainer management app for iOS, iPadOS and macOS.
-- [NitrogenzLab/ting](https://github.com/NitrogenzLab/ting) - 🍞 Flexible and customizable React Native toast/alert notifications with support for positioning, custom rendering, click handlers, and duration control. Written in Swift and Kotlin
+- [NitrogenZLab/ting](https://github.com/NitrogenZLab/ting) - 🍞 Flexible and customizable React Native toast/alert notifications with support for positioning, custom rendering, click handlers, and duration control. Written in Swift and Kotlin
 - [TheWidlarzGroup/react-native-video](https://github.com/TheWidlarzGroup/react-native-video) - A &lt;Video /&gt; component for react-native
 - [andrei-zgirvaci/expo-stable-diffusion](https://github.com/andrei-zgirvaci/expo-stable-diffusion) - Run Stable Diffusion using Core ML on iOS within your Expo & React Native App
 - [jellyfin/Swiftfin](https://github.com/jellyfin/Swiftfin) - Native Jellyfin Client for iOS and tvOS
@@ -224,7 +224,7 @@
 ## TypeScript 
 
 - [gitroomhq/postiz-app](https://github.com/gitroomhq/postiz-app) - 📨 The ultimate social media scheduling tool, with a bunch of AI  🤖
-- [streamyfin/streamyfin](https://github.com/streamyfin/streamyfin) - A Jellyfin client build with Expo
+- [streamyfin/streamyfin](https://github.com/streamyfin/streamyfin) - A Jellyfin client built with Expo
 - [alabsi91/reanimated-color-picker](https://github.com/alabsi91/reanimated-color-picker) - A Pure JavaScript Color Picker for React Native
 - [Clooos/Bubble-Card](https://github.com/Clooos/Bubble-Card) - Bubble Card is a minimalist card collection for Home Assistant with a nice pop-up touch.
 - [glideapps/quicktype](https://github.com/glideapps/quicktype) - Generate types and converters from JSON, Schema, and GraphQL
