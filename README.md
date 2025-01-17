@@ -110,7 +110,7 @@
 - [UI-Lovelace-Minimalist/UI](https://github.com/UI-Lovelace-Minimalist/UI) - UI-Lovelace-Minimalist is a "theme" for HomeAssistant
 - [actualbudget/actual-server](https://github.com/actualbudget/actual-server) - Actual's server
 - [fluent-ffmpeg/node-fluent-ffmpeg](https://github.com/fluent-ffmpeg/node-fluent-ffmpeg) - A fluent API to FFMPEG (http://www.ffmpeg.org)
-- [bluewave-labs/checkmate](https://github.com/bluewave-labs/checkmate) - Checkmate is an open-source, self-hosted tool designed to track and monitor server hardware, uptime, response times, and incidents in real-time with beautiful visualizations.
+- [bluewave-labs/Checkmate](https://github.com/bluewave-labs/Checkmate) - Checkmate is an open-source, self-hosted tool designed to track and monitor server hardware, uptime, response times, and incidents in real-time with beautiful visualizations.
 - [open-webui/open-webui](https://github.com/open-webui/open-webui) - User-friendly AI Interface (Supports Ollama, OpenAI API, ...)
 - [dotenvx/dotenvx](https://github.com/dotenvx/dotenvx) - a better dotenv–from the creator of `dotenv`
 - [diegomura/react-pdf](https://github.com/diegomura/react-pdf) - 📄  Create PDF files using React
