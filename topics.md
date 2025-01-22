@@ -24,6 +24,7 @@
 - [cpp](#cpp)
 - [csharp](#csharp)
 - [css](#css)
+- [cybersecurity](#cybersecurity)
 - [data](#data)
 - [data-visualization](#data-visualization)
 - [database](#database)
@@ -92,6 +93,7 @@
 - [opengl](#opengl)
 - [osint](#osint)
 - [others](#others)
+- [parsing](#parsing)
 - [pentesting](#pentesting)
 - [php](#php)
 - [postgresql](#postgresql)
@@ -254,6 +256,10 @@
 ## css 
 
 - [ionic-team/capacitor](https://github.com/ionic-team/capacitor) - Build cross-platform Native Progressive Web Apps for iOS, Android, and the Web ⚡️
+
+## cybersecurity 
+
+- [soxoj/maigret](https://github.com/soxoj/maigret) - 🕵️‍♂️ Collect a dossier on a person by username from thousands of sites
 
 ## data 
 
@@ -701,6 +707,7 @@
 
 ## open-source 
 
+- [soxoj/maigret](https://github.com/soxoj/maigret) - 🕵️‍♂️ Collect a dossier on a person by username from thousands of sites
 - [gitroomhq/postiz-app](https://github.com/gitroomhq/postiz-app) - 📨 The ultimate social media scheduling tool, with a bunch of AI  🤖
 - [openstatusHQ/openstatus](https://github.com/openstatusHQ/openstatus) - 🏓  The open-source synthetic monitoring platform  🏓
 - [phasehq/console](https://github.com/phasehq/console) - Application secrets and configuration management for developers.
@@ -720,6 +727,7 @@
 
 ## osint 
 
+- [soxoj/maigret](https://github.com/soxoj/maigret) - 🕵️‍♂️ Collect a dossier on a person by username from thousands of sites
 - [owasp-amass/amass](https://github.com/owasp-amass/amass) - In-depth attack surface mapping and asset discovery
 
 ## others 
@@ -806,6 +814,10 @@
 - [JustJoostNL/LoadAllWorlds](https://github.com/JustJoostNL/LoadAllWorlds) - The LoadAllWorlds PocketMine-MP Plugin
 - [poggit/plugins](https://github.com/poggit/plugins) - Subscribe to this repo to see the latest releases on your GitHub notifications!
 
+## parsing 
+
+- [soxoj/maigret](https://github.com/soxoj/maigret) - 🕵️‍♂️ Collect a dossier on a person by username from thousands of sites
+
 ## pentesting 
 
 - [RustScan/RustScan](https://github.com/RustScan/RustScan) - 🤖 The Modern Port Scanner 🤖
@@ -836,6 +848,7 @@
 
 ## python 
 
+- [soxoj/maigret](https://github.com/soxoj/maigret) - 🕵️‍♂️ Collect a dossier on a person by username from thousands of sites
 - [phasehq/console](https://github.com/phasehq/console) - Application secrets and configuration management for developers.
 - [donaldzou/WGDashboard](https://github.com/donaldzou/WGDashboard) - Simple dashboard for WireGuard VPN written in Python & Vue.js
 - [modoboa/modoboa](https://github.com/modoboa/modoboa) - Mail hosting made simple
@@ -843,6 +856,7 @@
 
 ## python3 
 
+- [soxoj/maigret](https://github.com/soxoj/maigret) - 🕵️‍♂️ Collect a dossier on a person by username from thousands of sites
 - [donaldzou/WGDashboard](https://github.com/donaldzou/WGDashboard) - Simple dashboard for WireGuard VPN written in Python & Vue.js
 - [modoboa/modoboa](https://github.com/modoboa/modoboa) - Mail hosting made simple
 
