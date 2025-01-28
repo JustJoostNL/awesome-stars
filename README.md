@@ -221,6 +221,7 @@
 
 ## Swift 
 
+- [jaywcjlove/create-custom-symbols](https://github.com/jaywcjlove/create-custom-symbols) - A tool that can convert any SVG icon into a custom SF symbol. Your customized SF symbol can be imported into Xcode and utilized in any project based on UIKit or SwiftUI.
 - [okwasniewski/MiniSim](https://github.com/okwasniewski/MiniSim) - MacOS menu bar app for launching iOS  and Android 🤖 emulators
 - [rrroyal/Harbour](https://github.com/rrroyal/Harbour) - Docker/Portainer management app for iOS, iPadOS and macOS.
 - [NitrogenZLab/ting](https://github.com/NitrogenZLab/ting) - 🍞 Flexible and customizable React Native toast/alert notifications with support for positioning, custom rendering, click handlers, and duration control. Written in Swift and Kotlin
