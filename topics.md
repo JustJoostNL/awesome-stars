@@ -358,6 +358,7 @@
 
 ## firefox 
 
+- [yokoffing/Betterfox](https://github.com/yokoffing/Betterfox) - Firefox user.js for speed, privacy, and security. Your favorite browser, but better.
 - [zen-browser/desktop](https://github.com/zen-browser/desktop) - 🌀 Experience tranquillity while browsing the web without people tracking you!
 - [extension-js/extension.js](https://github.com/extension-js/extension.js) - 🧩 The cross-browser extension framework.
 - [FiloSottile/mkcert](https://github.com/FiloSottile/mkcert) - A simple zero-config tool to make locally trusted development certificates with any names you'd like.
@@ -650,6 +651,7 @@
 
 ## minecraft 
 
+- [louis-e/arnis](https://github.com/louis-e/arnis) - Generate any location from the real world in Minecraft Java Edition with a high level of detail.
 - [PrismLauncher/PrismLauncher](https://github.com/PrismLauncher/PrismLauncher) - A custom launcher for Minecraft that allows you to easily manage multiple installations of Minecraft at once (Fork of MultiMC)
 
 ## mobile 
@@ -762,6 +764,7 @@
 
 ## others 
 
+- [nizzyabi/Mail0](https://github.com/nizzyabi/Mail0) - open source gmail alternative (coming soon). join the discord: https://discord.gg/5nwrvt3JH2
 - [exo-explore/exo](https://github.com/exo-explore/exo) - Run your own AI cluster at home with everyday devices 📱💻 🖥️⌚
 - [nandorojo/sf-symbols-typescript](https://github.com/nandorojo/sf-symbols-typescript) - TypeScript types for iOS SF Symbols 🍏
 - [musana/CF-Hero](https://github.com/musana/CF-Hero) - CF-Hero is a reconnaissance tool that uses multiple data sources to discover the origin IP addresses of Cloudflare-protected web applications
@@ -874,6 +877,7 @@
 
 ## privacy 
 
+- [yokoffing/Betterfox](https://github.com/yokoffing/Betterfox) - Firefox user.js for speed, privacy, and security. Your favorite browser, but better.
 - [aptabase/aptabase](https://github.com/aptabase/aptabase) - ✨ Open Source, Privacy-First and Simple Analytics for Mobile, Desktop and Web Apps
 - [firezone/firezone](https://github.com/firezone/firezone) - Enterprise-ready zero-trust access platform built on WireGuard®.
 - [angristan/openvpn-install](https://github.com/angristan/openvpn-install) - Set up your own OpenVPN server on Debian, Ubuntu, Fedora, CentOS or Arch Linux.
@@ -1017,11 +1021,12 @@
 
 ## rust 
 
+- [louis-e/arnis](https://github.com/louis-e/arnis) - Generate any location from the real world in Minecraft Java Edition with a high level of detail.
 - [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk) - An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer.
 - [RustScan/RustScan](https://github.com/RustScan/RustScan) - 🤖 The Modern Port Scanner 🤖
 - [glideapps/quicktype](https://github.com/glideapps/quicktype) - Generate types and converters from JSON, Schema, and GraphQL
 - [tauri-apps/tauri](https://github.com/tauri-apps/tauri) - Build smaller, faster, and more secure desktop and mobile applications with a web frontend.
-- [software-mansion/smelter](https://github.com/software-mansion/smelter) - Media server for real-time, low latency, programmable video and audio mixing.
+- [software-mansion/smelter](https://github.com/software-mansion/smelter) - Toolkit for real-time, low latency, programmable video and audio mixing.
 - [MindFlavor/prometheus_wireguard_exporter](https://github.com/MindFlavor/prometheus_wireguard_exporter) - A Prometheus exporter for WireGuard, written in Rust.
 - [dani-garcia/vaultwarden](https://github.com/dani-garcia/vaultwarden) - Unofficial Bitwarden compatible server written in Rust, formerly known as bitwarden_rs
 
@@ -1031,6 +1036,7 @@
 
 ## security 
 
+- [yokoffing/Betterfox](https://github.com/yokoffing/Betterfox) - Firefox user.js for speed, privacy, and security. Your favorite browser, but better.
 - [lmammino/jwt-cracker](https://github.com/lmammino/jwt-cracker) - Simple HS256, HS384 & HS512 JWT token brute force cracker.
 - [RustScan/RustScan](https://github.com/RustScan/RustScan) - 🤖 The Modern Port Scanner 🤖
 - [vernu/vps-audit](https://github.com/vernu/vps-audit) - lightweight, dependency-free bash script for security, performance auditing and infrastructure monitoring of Linux servers.
