@@ -15,6 +15,7 @@
 - [awesome-list](#awesome-list)
 - [babel](#babel)
 - [bash](#bash)
+- [bugbounty](#bugbounty)
 - [c-plus-plus](#c-plus-plus)
 - [chatbot](#chatbot)
 - [chatgpt](#chatgpt)
@@ -215,6 +216,10 @@
 
 - [vernu/vps-audit](https://github.com/vernu/vps-audit) - lightweight, dependency-free bash script for security, performance auditing and infrastructure monitoring of Linux servers.
 - [angristan/openvpn-install](https://github.com/angristan/openvpn-install) - Set up your own OpenVPN server on Debian, Ubuntu, Fedora, CentOS or Arch Linux.
+
+## bugbounty 
+
+- [mirzaaghazadeh/jsdif](https://github.com/mirzaaghazadeh/jsdif) - A powerful JavaScript monitoring tool for bug bounty hunters. Track changes in JavaScript files across websites, detect new attack surfaces, and stay ahead of security vulnerabilities.
 
 ## c-plus-plus 
 
@@ -764,6 +769,7 @@
 
 ## others 
 
+- [Glimesh/broadcast-box](https://github.com/Glimesh/broadcast-box) - A broadcast, in a box.
 - [nizzyabi/Mail0](https://github.com/nizzyabi/Mail0) - open source gmail alternative (coming soon). join the discord: https://discord.gg/5nwrvt3JH2
 - [exo-explore/exo](https://github.com/exo-explore/exo) - Run your own AI cluster at home with everyday devices 📱💻 🖥️⌚
 - [nandorojo/sf-symbols-typescript](https://github.com/nandorojo/sf-symbols-typescript) - TypeScript types for iOS SF Symbols 🍏
