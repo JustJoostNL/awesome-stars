@@ -200,7 +200,7 @@
 - [br-g/openf1](https://github.com/br-g/openf1) - OpenF1 API - Real-time and historical Formula 1 data
 - [dortania/OpenCore-Legacy-Patcher](https://github.com/dortania/OpenCore-Legacy-Patcher) - Experience macOS just like before
 - [modoboa/modoboa](https://github.com/modoboa/modoboa) - Mail hosting made simple
-- [xtekky/gpt4free](https://github.com/xtekky/gpt4free) - The official gpt4free repository | various collection of powerful language models | o3 mini and deepseek r1
+- [xtekky/gpt4free](https://github.com/xtekky/gpt4free) - The official gpt4free repository | various collection of powerful language models | o3 and deepseek r1, gpt-4.5
 - [RobSpectre/mvf1](https://github.com/RobSpectre/mvf1) - A Python package and command line interface to control video players for MultiViewer For F1, the best way to watch Formula 1.
 - [elebumm/RedditVideoMakerBot](https://github.com/elebumm/RedditVideoMakerBot) - Create Reddit Videos with just✨ one command ✨
 
