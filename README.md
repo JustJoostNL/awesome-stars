@@ -251,7 +251,7 @@
 ## TypeScript 
 
 - [CapSoftware/Cap](https://github.com/CapSoftware/Cap) - Open source Loom alternative. Beautiful, shareable screen recordings.
-- [Mail-0/Mail-0](https://github.com/Mail-0/Mail-0) - open source gmail alternative (coming soon). join the discord: https://discord.gg/0email
+- [Mail-0/Mail-0](https://github.com/Mail-0/Mail-0) - Experience email the way you want with 0 – the first open source email app that puts your privacy and safety first (coming soon). Join the discord: https://discord.gg/0email
 - [hirbod/react-native-volume-manager](https://github.com/hirbod/react-native-volume-manager) - React Native module which adds the ability to change the system volume on iOS and Android, listen to volume changes and supress the native volume UI to build your own volume slider or UX. It can liste
 - [MatiPl01/react-native-sortables](https://github.com/MatiPl01/react-native-sortables) - 🚀 Powerful Sortable Components for Flexible Content Reordering in React Native
 - [software-mansion/react-native-gesture-handler](https://github.com/software-mansion/react-native-gesture-handler) - Declarative API exposing platform native touch and gesture system to React Native.
@@ -343,7 +343,7 @@
 - [electron-vite/electron-vite-react](https://github.com/electron-vite/electron-vite-react) - :electron: Electron + Vite + React + Sass boilerplate.
 - [MarkusTheOrt/FIA-Docs-Discord-Bot](https://github.com/MarkusTheOrt/FIA-Docs-Discord-Bot) - 
 - [JustJoostNL/F1MV-Lights-Integration](https://github.com/JustJoostNL/F1MV-Lights-Integration) - The best way to connect your smart home lights to MultiViewer.
-- [f1-tools/MultiViewer-Streamdeck-Plugin](https://github.com/f1-tools/MultiViewer-Streamdeck-Plugin) - A Streamdeck plugin for using Multiviewer for Formula 1
+- [f1-tools/MultiViewer-StreamDeck-Plugin](https://github.com/f1-tools/MultiViewer-StreamDeck-Plugin) - A Streamdeck plugin for using Multiviewer for Formula 1
 - [Nutlope/roomGPT](https://github.com/Nutlope/roomGPT) - Upload a photo of your room to generate your dream room with AI.
 - [LapsTimeOFF/FIAViewer](https://github.com/LapsTimeOFF/FIAViewer) - 
 - [OneUptime/oneuptime](https://github.com/OneUptime/oneuptime) - OneUptime is the complete open-source observability platform.
