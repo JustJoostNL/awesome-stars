@@ -350,7 +350,6 @@
 - [JustJoostNL/F1MV-Lights-Integration](https://github.com/JustJoostNL/F1MV-Lights-Integration) - The best way to connect your smart home lights to MultiViewer.
 - [f1-tools/MultiViewer-StreamDeck-Plugin](https://github.com/f1-tools/MultiViewer-StreamDeck-Plugin) - A Streamdeck plugin for using Multiviewer for Formula 1
 - [Nutlope/roomGPT](https://github.com/Nutlope/roomGPT) - Upload a photo of your room to generate your dream room with AI.
-- [LapsTimeOFF/FIAViewer](https://github.com/LapsTimeOFF/FIAViewer) - 
 - [OneUptime/oneuptime](https://github.com/OneUptime/oneuptime) - OneUptime is the complete open-source observability platform.
 - [honojs/hono](https://github.com/honojs/hono) - Web framework built on Web Standards
 - [LapsTimeOFF/NPM_F1MV_API](https://github.com/LapsTimeOFF/NPM_F1MV_API) - Communicate with the F1MV Local API in NodeJS !
