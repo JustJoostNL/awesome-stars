@@ -859,7 +859,6 @@
 - [Nutlope/roomGPT](https://github.com/Nutlope/roomGPT) - Upload a photo of your room to generate your dream room with AI.
 - [RobSpectre/mvf1](https://github.com/RobSpectre/mvf1) - A Python package and command line interface to control video players for MultiViewer For F1, the best way to watch Formula 1.
 - [MRAJEKO/UF1-Viewer-with-F1MV](https://github.com/MRAJEKO/UF1-Viewer-with-F1MV) - 
-- [LapsTimeOFF/FIAViewer](https://github.com/LapsTimeOFF/FIAViewer) - 
 - [JetBrains/swot](https://github.com/JetBrains/swot) - Identify email addresses or domains names that belong to colleges or universities. Help automate the process of approving or rejecting academic discounts.
 - [erictrinh/nanoleaves](https://github.com/erictrinh/nanoleaves) - CLI and api client for the Nanoleaf Aurora light panels.
 - [LapsTimeOFF/NPM_F1MV_API](https://github.com/LapsTimeOFF/NPM_F1MV_API) - Communicate with the F1MV Local API in NodeJS !
