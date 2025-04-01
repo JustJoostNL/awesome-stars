@@ -794,6 +794,7 @@
 
 ## others 
 
+- [ejbills/DockDoor](https://github.com/ejbills/DockDoor) - Window peeking for macOS
 - [AlDanial/cloc](https://github.com/AlDanial/cloc) - cloc counts blank lines, comment lines, and physical lines of source code in many programming languages.
 - [okwasniewski/react-native-emoji-popup](https://github.com/okwasniewski/react-native-emoji-popup) - Native Emoji Picker for React Native
 - [Glimesh/broadcast-box](https://github.com/Glimesh/broadcast-box) - A broadcast, in a box.
