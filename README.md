@@ -204,7 +204,7 @@
 - [br-g/openf1](https://github.com/br-g/openf1) - OpenF1 API - Real-time and historical Formula 1 data
 - [dortania/OpenCore-Legacy-Patcher](https://github.com/dortania/OpenCore-Legacy-Patcher) - Experience macOS just like before
 - [modoboa/modoboa](https://github.com/modoboa/modoboa) - Mail hosting made simple
-- [xtekky/gpt4free](https://github.com/xtekky/gpt4free) - The official gpt4free repository | various collection of powerful language models | o3 and deepseek r1, gpt-4.5
+- [xtekky/gpt4free](https://github.com/xtekky/gpt4free) - The official gpt4free repository | various collection of powerful language models | o4, o3 and deepseek r1, gpt-4.1, gemini 2.5
 - [RobSpectre/mvf1](https://github.com/RobSpectre/mvf1) - A Python package and command line interface to control video players for MultiViewer For F1, the best way to watch Formula 1.
 - [elebumm/RedditVideoMakerBot](https://github.com/elebumm/RedditVideoMakerBot) - Create Reddit Videos with just✨ one command ✨
 
@@ -255,6 +255,7 @@
 
 ## TypeScript 
 
+- [unibeck/uptime-monitor](https://github.com/unibeck/uptime-monitor) - A uptime monitoring service that is easy and cheap to run at scale. Create endpoint checks for uptime, latency, and status code. Supports OpsGenie for alerts.
 - [CapSoftware/Cap](https://github.com/CapSoftware/Cap) - Open source Loom alternative. Beautiful, shareable screen recordings.
 - [Mail-0/Zero](https://github.com/Mail-0/Zero) - Experience email the way you want with 0 – the first open source email app that puts your privacy and safety first (coming soon). Join the discord: https://discord.gg/0email
 - [hirbod/react-native-volume-manager](https://github.com/hirbod/react-native-volume-manager) - React Native module which adds the ability to change the system volume on iOS and Android, listen to volume changes and supress the native volume UI to build your own volume slider or UX. It can liste
