@@ -806,6 +806,7 @@
 
 ## others 
 
+- [101arrowz/fflate](https://github.com/101arrowz/fflate) - High performance (de)compression in an 8kB package
 - [better-auth/better-auth](https://github.com/better-auth/better-auth) - The most comprehensive authentication framework for TypeScript
 - [unibeck/uptime-monitor](https://github.com/unibeck/uptime-monitor) - A uptime monitoring service that is easy and cheap to run at scale. Create endpoint checks for uptime, latency, and status code. Supports OpsGenie for alerts.
 - [ejbills/DockDoor](https://github.com/ejbills/DockDoor) - Window peeking for macOS
