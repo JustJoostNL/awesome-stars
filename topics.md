@@ -806,6 +806,7 @@
 
 ## others 
 
+- [ChristopherGabba/react-native-nitro-audio-manager](https://github.com/ChristopherGabba/react-native-nitro-audio-manager) - 
 - [101arrowz/fflate](https://github.com/101arrowz/fflate) - High performance (de)compression in an 8kB package
 - [better-auth/better-auth](https://github.com/better-auth/better-auth) - The most comprehensive authentication framework for TypeScript
 - [unibeck/uptime-monitor](https://github.com/unibeck/uptime-monitor) - A uptime monitoring service that is easy and cheap to run at scale. Create endpoint checks for uptime, latency, and status code. Supports OpsGenie for alerts.
@@ -993,6 +994,7 @@
 
 ## react-native 
 
+- [bamlab/react-native-app-security](https://github.com/bamlab/react-native-app-security) - Easily implement usual security measures in React Native Expo apps. Made by BAM ❤️💙💛
 - [Shopify/react-native-skia](https://github.com/Shopify/react-native-skia) - High-performance React Native Graphics using Skia
 - [margelo/react-native-quick-crypto](https://github.com/margelo/react-native-quick-crypto) - ⚡️ A fast implementation of Node's `crypto` module written in C/C++ JSI
 - [betomoedano/quick-push](https://github.com/betomoedano/quick-push) - A lightweight macOS menu bar utility for quickly testing Expo push notifications
@@ -1092,6 +1094,7 @@
 
 ## security 
 
+- [bamlab/react-native-app-security](https://github.com/bamlab/react-native-app-security) - Easily implement usual security measures in React Native Expo apps. Made by BAM ❤️💙💛
 - [Mail-0/Zero](https://github.com/Mail-0/Zero) - Experience email the way you want with 0 – the first open source email app that puts your privacy and safety first. Join the discord: https://discord.gg/0email
 - [yokoffing/Betterfox](https://github.com/yokoffing/Betterfox) - Firefox user.js for speed, privacy, and security. Your favorite browser, but better.
 - [lmammino/jwt-cracker](https://github.com/lmammino/jwt-cracker) - Simple HS256, HS384 & HS512 JWT token brute force cracker.
