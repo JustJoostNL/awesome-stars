@@ -9,6 +9,7 @@
 - [C#](#c#)
 - [C++](#c++)
 - [Elixir](#elixir)
+- [Erlang](#erlang)
 - [Go](#go)
 - [HTML](#html)
 - [Java](#java)
@@ -68,6 +69,10 @@
 - [fishjam-dev/fishjam](https://github.com/fishjam-dev/fishjam) - General purpose media server. Supports WebRTC, HLS, RTSP, SIP
 - [elixir-webrtc/apps](https://github.com/elixir-webrtc/apps) - Example apps built on top of Elixir WebRTC
 - [firezone/firezone](https://github.com/firezone/firezone) - Enterprise-ready zero-trust access platform built on WireGuard®.
+
+## Erlang 
+
+- [software-mansion/popcorn](https://github.com/software-mansion/popcorn) - Running Elixir in the browser
 
 ## Go 
 
