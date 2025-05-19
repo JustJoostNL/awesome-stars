@@ -49,6 +49,7 @@
 
 ## C++ 
 
+- [shaka-project/shaka-packager](https://github.com/shaka-project/shaka-packager) - A media packaging and development framework for VOD and Live DASH and HLS applications, supporting Common Encryption for Widevine and other DRM Systems.
 - [zen-browser/desktop](https://github.com/zen-browser/desktop) - Welcome to a calmer internet
 - [margelo/react-native-skottie](https://github.com/margelo/react-native-skottie) - ▶️ Efficient lottie animations using Skia's Skottie module
 - [PrismLauncher/PrismLauncher](https://github.com/PrismLauncher/PrismLauncher) - A custom launcher for Minecraft that allows you to easily manage multiple installations of Minecraft at once (Fork of MultiMC)
@@ -264,6 +265,7 @@
 
 ## TypeScript 
 
+- [remotion-dev/remotion](https://github.com/remotion-dev/remotion) - 🎥      Make videos programmatically with React
 - [bamlab/react-native-app-security](https://github.com/bamlab/react-native-app-security) - Easily implement usual security measures in React Native Expo apps. Made by BAM ❤️💙💛
 - [ChristopherGabba/react-native-nitro-audio-manager](https://github.com/ChristopherGabba/react-native-nitro-audio-manager) - 
 - [101arrowz/fflate](https://github.com/101arrowz/fflate) - High performance (de)compression in an 8kB package
