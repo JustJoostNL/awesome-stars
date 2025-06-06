@@ -820,6 +820,8 @@
 
 ## others 
 
+- [netdcy/FlowVision](https://github.com/netdcy/FlowVision) - Waterfall-style image viewer for macOS, offering a smooth and immersive browsing experience.
+- [tj/commander.js](https://github.com/tj/commander.js) - node.js command-line interfaces made easy
 - [JustAman62/undercut-f1](https://github.com/JustAman62/undercut-f1) - F1 Live Timing TUI for all F1 sessions with variable delay to sync to your TV. Supports replaying previously recorded sessions.
 - [shaka-project/shaka-packager](https://github.com/shaka-project/shaka-packager) - A media packaging and development framework for VOD and Live DASH and HLS applications, supporting Common Encryption for Widevine and other DRM Systems.
 - [software-mansion/popcorn](https://github.com/software-mansion/popcorn) - Running Elixir in the browser
