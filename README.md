@@ -199,6 +199,7 @@
 
 ## Python 
 
+- [tlkh/asitop](https://github.com/tlkh/asitop) - Perf monitoring CLI tool for Apple Silicon
 - [significa/app-distribution-server](https://github.com/significa/app-distribution-server) - Simple, self-hosted Android and iOS mobile app distribution server (for IPA and APK files).
 - [grafana/oncall](https://github.com/grafana/oncall) - Developer-friendly incident response with brilliant Slack integration
 - [polarsource/polar](https://github.com/polarsource/polar) - An open source engine for your digital products. Sell SaaS and digital products in minutes.
@@ -289,7 +290,7 @@
 - [kirillzyusko/react-native-keyboard-controller](https://github.com/kirillzyusko/react-native-keyboard-controller) - Keyboard manager which works in identical way on both iOS and Android
 - [Expensify/react-native-live-markdown](https://github.com/Expensify/react-native-live-markdown) - Drop-in replacement for React Native's TextInput component with Markdown formatting.
 - [mui/toolpad](https://github.com/mui/toolpad) - Toolpad: Full stack components and low-code builder for dashboards and internal apps.
-- [fosrl/pangolin](https://github.com/fosrl/pangolin) - Tunneled Mesh Reverse Proxy Server with Identity and Access Control and Dashboard UI
+- [fosrl/pangolin](https://github.com/fosrl/pangolin) - Tunneled Reverse Proxy Server with Identity and Access Control and Dashboard UI
 - [software-mansion/radon-ide](https://github.com/software-mansion/radon-ide) - VSCode/Cursor extension that turns your editor into a full featured IDE for React Native and Expo.
 - [nandorojo/sf-symbols-typescript](https://github.com/nandorojo/sf-symbols-typescript) - TypeScript types for iOS SF Symbols 🍏
 - [Kong/insomnia](https://github.com/Kong/insomnia) - The open-source, cross-platform API client for GraphQL, REST, WebSockets, SSE and gRPC. With Cloud, Local and Git storage.
