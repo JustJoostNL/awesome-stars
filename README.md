@@ -273,6 +273,7 @@
 
 ## TypeScript 
 
+- [mlomb/chat-analytics](https://github.com/mlomb/chat-analytics) - Generate interactive, beautiful and insightful chat analysis reports
 - [remotion-dev/remotion](https://github.com/remotion-dev/remotion) - 🎥      Make videos programmatically with React
 - [bamlab/react-native-app-security](https://github.com/bamlab/react-native-app-security) - Easily implement usual security measures in React Native Expo apps. Made by BAM ❤️💙💛
 - [ChristopherGabba/react-native-nitro-audio-manager](https://github.com/ChristopherGabba/react-native-nitro-audio-manager) - 
