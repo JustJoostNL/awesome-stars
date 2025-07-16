@@ -10,6 +10,7 @@
 - [C++](#c++)
 - [Elixir](#elixir)
 - [Erlang](#erlang)
+- [Gherkin](#gherkin)
 - [Go](#go)
 - [HTML](#html)
 - [Java](#java)
@@ -76,6 +77,10 @@
 ## Erlang 
 
 - [software-mansion/popcorn](https://github.com/software-mansion/popcorn) - Running Elixir in the browser
+
+## Gherkin 
+
+- [keygen-sh/keygen-api](https://github.com/keygen-sh/keygen-api) - Keygen is a fair source software licensing and distribution API built with Ruby on Rails. For developers, by developers.
 
 ## Go 
 
@@ -272,6 +277,7 @@
 
 ## TypeScript 
 
+- [OpenCut-app/OpenCut](https://github.com/OpenCut-app/OpenCut) - The open-source CapCut alternative
 - [mlomb/chat-analytics](https://github.com/mlomb/chat-analytics) - Generate interactive, beautiful and insightful chat analysis reports
 - [remotion-dev/remotion](https://github.com/remotion-dev/remotion) - 🎥      Make videos programmatically with React
 - [bamlab/react-native-app-security](https://github.com/bamlab/react-native-app-security) - Easily implement usual security measures in React Native Expo apps. Made by BAM ❤️💙💛
