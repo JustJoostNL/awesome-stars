@@ -122,6 +122,7 @@
 
 ## JavaScript 
 
+- [lowlighter/metrics](https://github.com/lowlighter/metrics) - 📊 An infographics generator with 30+ plugins and 300+ options to display stats about your GitHub account and render them as SVG, Markdown, PDF or JSON!
 - [tj/commander.js](https://github.com/tj/commander.js) - node.js command-line interfaces made easy
 - [jaywcjlove/awesome-mac](https://github.com/jaywcjlove/awesome-mac) -  Now we have become very big, Different from the original idea. Collect premium software in various categories.
 - [chalk/chalk](https://github.com/chalk/chalk) - 🖍 Terminal string styling done right
