@@ -82,7 +82,7 @@
 
 ## Gherkin 
 
-- [keygen-sh/keygen-api](https://github.com/keygen-sh/keygen-api) - Keygen is a fair source software licensing and distribution API built with Ruby on Rails. For developers, by developers.
+- [keygen-sh/keygen-api](https://github.com/keygen-sh/keygen-api) - Keygen is a modern, fair source software licensing and distribution API. For developers, by developers.
 
 ## Go 
 
@@ -316,7 +316,7 @@
 - [glideapps/quicktype](https://github.com/glideapps/quicktype) - Generate types and converters from JSON, Schema, and GraphQL
 - [douglasjunior/react-native-simple-dialogs](https://github.com/douglasjunior/react-native-simple-dialogs) - ⚛ Cross-platform React Native dialogs based on the Modal component
 - [vercel/swr](https://github.com/vercel/swr) - React Hooks for Data Fetching
-- [home-assistant-libs/python-matter-server](https://github.com/home-assistant-libs/python-matter-server) - Python server to interact with Matter
+- [matter-js/python-matter-server](https://github.com/matter-js/python-matter-server) - Python server to interact with Matter
 - [AppAndFlow/react-native-safe-area-context](https://github.com/AppAndFlow/react-native-safe-area-context) - A flexible way to handle safe area insets in JS. Also works on Android and Web!
 - [lodev09/react-native-true-sheet](https://github.com/lodev09/react-native-true-sheet) - The true native bottom sheet experience 💩
 - [opennextjs/opennextjs-cloudflare](https://github.com/opennextjs/opennextjs-cloudflare) - Open Next.js adapter for Cloudflare
