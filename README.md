@@ -313,7 +313,7 @@
 - [nandorojo/sf-symbols-typescript](https://github.com/nandorojo/sf-symbols-typescript) - TypeScript types for iOS SF Symbols 🍏
 - [Kong/insomnia](https://github.com/Kong/insomnia) - The open-source, cross-platform API client for GraphQL, REST, WebSockets, SSE and gRPC. With Cloud, Local and Git storage.
 - [gitroomhq/postiz-app](https://github.com/gitroomhq/postiz-app) - 📨 The ultimate social media scheduling tool, with a bunch of AI  🤖
-- [streamyfin/streamyfin](https://github.com/streamyfin/streamyfin) - A Jellyfin client built with Expo
+- [streamyfin/streamyfin](https://github.com/streamyfin/streamyfin) - A modern Jellyfin client built with Expo
 - [alabsi91/reanimated-color-picker](https://github.com/alabsi91/reanimated-color-picker) - A Pure JavaScript Color Picker for React Native
 - [glideapps/quicktype](https://github.com/glideapps/quicktype) - Generate types and converters from JSON, Schema, and GraphQL
 - [douglasjunior/react-native-simple-dialogs](https://github.com/douglasjunior/react-native-simple-dialogs) - ⚛ Cross-platform React Native dialogs based on the Modal component
