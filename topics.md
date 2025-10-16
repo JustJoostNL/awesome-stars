@@ -71,6 +71,7 @@
 - [home-assistant](#home-assistant)
 - [homebrew](#homebrew)
 - [html](#html)
+- [http](#http)
 - [https](#https)
 - [information-gathering](#information-gathering)
 - [ios](#ios)
@@ -410,7 +411,7 @@
 - [fosrl/pangolin](https://github.com/fosrl/pangolin) - Identity-Aware Tunneled Reverse Proxy Server with Dashboard UI
 - [bee-san/RustScan](https://github.com/bee-san/RustScan) - 🤖 The Modern Port Scanner 🤖
 - [phasehq/console](https://github.com/phasehq/console) - Application secrets and configuration management for developers.
-- [dockur/macos](https://github.com/dockur/macos) - macOS inside a Docker container.
+- [dockur/macos](https://github.com/dockur/macos) - MacOS inside a Docker container.
 - [pelican-dev/panel](https://github.com/pelican-dev/panel) - 
 - [TwiN/gatus](https://github.com/TwiN/gatus) - ⛑ Automated developer-oriented status page
 - [verdaccio/verdaccio](https://github.com/verdaccio/verdaccio) - A lightweight Node.js private proxy registry
@@ -599,6 +600,10 @@
 
 - [ionic-team/capacitor](https://github.com/ionic-team/capacitor) - Build cross-platform Native Progressive Web Apps for iOS, Android, and the Web ⚡️
 
+## http 
+
+- [margelo/react-native-nitro-fetch](https://github.com/margelo/react-native-nitro-fetch) - A super-fast network fetching library for React Native with prefetching support
+
 ## https 
 
 - [FiloSottile/mkcert](https://github.com/FiloSottile/mkcert) - A simple zero-config tool to make locally trusted development certificates with any names you'd like.
@@ -745,7 +750,7 @@
 - [jaywcjlove/awesome-mac](https://github.com/jaywcjlove/awesome-mac) -  Now we have become very big, Different from the original idea. Collect premium software in various categories.
 - [CodeEditApp/CodeEdit](https://github.com/CodeEditApp/CodeEdit) - 📝 CodeEdit App for macOS – Elevate your code editing experience. Open source, free forever.
 - [CapSoftware/Cap](https://github.com/CapSoftware/Cap) - Open source Loom alternative. Beautiful, shareable screen recordings.
-- [dockur/macos](https://github.com/dockur/macos) - macOS inside a Docker container.
+- [dockur/macos](https://github.com/dockur/macos) - MacOS inside a Docker container.
 
 ## macos 
 
@@ -757,7 +762,7 @@
 - [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk) - An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer.
 - [iina/iina](https://github.com/iina/iina) - The modern video player for macOS.
 - [jaywcjlove/create-custom-symbols](https://github.com/jaywcjlove/create-custom-symbols) - A tool that can convert any SVG icon into a custom SF symbol. Your customized SF symbol can be imported into Xcode and utilized in any project based on UIKit or SwiftUI.
-- [dockur/macos](https://github.com/dockur/macos) - macOS inside a Docker container.
+- [dockur/macos](https://github.com/dockur/macos) - MacOS inside a Docker container.
 - [majd/ipatool](https://github.com/majd/ipatool) - Command-line tool that allows searching and downloading app packages (known as ipa files) from the iOS App Store
 - [rrroyal/Harbour](https://github.com/rrroyal/Harbour) - Docker/Portainer management app for iOS, iPadOS and macOS.
 - [sickcodes/osx-optimizer](https://github.com/sickcodes/osx-optimizer) - OSX Optimizer: Optimize MacOS - Shell scripts to speed up your mac boot time, accelerate loading, and prevent unnecessary throttling.
@@ -1068,6 +1073,7 @@
 
 ## react 
 
+- [margelo/react-native-nitro-fetch](https://github.com/margelo/react-native-nitro-fetch) - A super-fast network fetching library for React Native with prefetching support
 - [payloadcms/payload](https://github.com/payloadcms/payload) - Payload is the open-source, fullstack Next.js framework, giving you instant backend superpowers. Get a full TypeScript backend and admin panel instantly. Use Payload as a headless CMS or for building 
 - [PostHog/posthog](https://github.com/PostHog/posthog) - 🦔 PostHog provides open-source web & product analytics, session recording, feature flagging and A/B testing that you can self-host. Get started - free.
 - [remotion-dev/remotion](https://github.com/remotion-dev/remotion) - 🎥      Make videos programmatically with React
@@ -1108,6 +1114,7 @@
 
 ## react-native 
 
+- [margelo/react-native-nitro-fetch](https://github.com/margelo/react-native-nitro-fetch) - A super-fast network fetching library for React Native with prefetching support
 - [bamlab/react-native-app-security](https://github.com/bamlab/react-native-app-security) - Easily implement usual security measures in React Native Expo apps. Made by BAM ❤️💙💛
 - [Shopify/react-native-skia](https://github.com/Shopify/react-native-skia) - High-performance React Native Graphics using Skia
 - [margelo/react-native-quick-crypto](https://github.com/margelo/react-native-quick-crypto) - ⚡️ A fast implementation of Node's `crypto` module written in C/C++ JSI
