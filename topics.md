@@ -153,7 +153,6 @@
 - [vue](#vue)
 - [vuejs](#vuejs)
 - [web](#web)
-- [webapp](#webapp)
 - [webpack](#webpack)
 - [website](#website)
 - [windows](#windows)
@@ -1391,10 +1390,6 @@
 - [alabsi91/reanimated-color-picker](https://github.com/alabsi91/reanimated-color-picker) - A Pure JavaScript Color Picker for React Native
 - [AppAndFlow/react-native-safe-area-context](https://github.com/AppAndFlow/react-native-safe-area-context) - A flexible way to handle safe area insets in JS. Also works on Android and Web!
 - [expo/expo](https://github.com/expo/expo) - An open-source framework for making universal native apps with React. Expo runs on Android, iOS, and the web.
-
-## webapp 
-
-- [bibixx/zium.app](https://github.com/bibixx/zium.app) - Formula 1 Multi-View Experience
 
 ## webpack 
 
