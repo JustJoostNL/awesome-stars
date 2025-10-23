@@ -390,7 +390,6 @@
 - [frw/react-native-ssl-public-key-pinning](https://github.com/frw/react-native-ssl-public-key-pinning) - Simple and secure SSL public key pinning for React Native. No native configuration needed, set up in &lt;5 minutes.
 - [mui/material-ui](https://github.com/mui/material-ui) - Material UI: Comprehensive React component library that implements Google's Material Design. Free forever.
 - [mrousavy/react-native-mmkv](https://github.com/mrousavy/react-native-mmkv) - ⚡️ The fastest key/value storage for React Native. ~30x faster than AsyncStorage!
-- [bibixx/zium.app](https://github.com/bibixx/zium.app) - Formula 1 Multi-View Experience
 - [LapsTimeOFF/league-streaming](https://github.com/LapsTimeOFF/league-streaming) - 
 - [iptv-org/iptv](https://github.com/iptv-org/iptv) - Collection of publicly available IPTV channels from all over the world
 - [TheBaconCat/rainviewer-f1](https://github.com/TheBaconCat/rainviewer-f1) - 
