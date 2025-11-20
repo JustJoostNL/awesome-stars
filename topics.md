@@ -921,7 +921,7 @@
 - [LiveContainer/LiveContainer](https://github.com/LiveContainer/LiveContainer) - Run iOS apps without actually installing them!
 - [ChristopherGabba/react-native-nitro-audio-manager](https://github.com/ChristopherGabba/react-native-nitro-audio-manager) - 
 - [101arrowz/fflate](https://github.com/101arrowz/fflate) - High performance (de)compression in an 8kB package
-- [unibeck/solstatus](https://github.com/unibeck/solstatus) - An uptime monitoring service that is easy and cheap to run at scale. Create endpoint checks for uptime, latency, and status code. Supports OpsGenie for alerts.
+- [jonbeckman/solstatus](https://github.com/jonbeckman/solstatus) - An uptime monitoring service that is easy and cheap to run at scale. Create endpoint checks for uptime, latency, and status code. Supports OpsGenie for alerts.
 - [ejbills/DockDoor](https://github.com/ejbills/DockDoor) - Window peeking & alt-tab for macOS
 - [okwasniewski/react-native-emoji-popup](https://github.com/okwasniewski/react-native-emoji-popup) - Native Emoji Picker for React Native
 - [Glimesh/broadcast-box](https://github.com/Glimesh/broadcast-box) - A broadcast, in a box.
