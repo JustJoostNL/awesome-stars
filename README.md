@@ -116,7 +116,6 @@
 
 - [nandorojo/burnt](https://github.com/nandorojo/burnt) - Crunchy toasts for React Native. 🍞
 - [gbumps/react-native-screenguard](https://github.com/gbumps/react-native-screenguard) - A Native screenshot blocking library for React-Native developer, with background customizable after captured. Screenshot detector are also supported.
-- [software-mansion/react-native-svg](https://github.com/software-mansion/react-native-svg) - SVG library for React Native, React Native Web, and plain React web projects.
 - [modesty/pdf2json](https://github.com/modesty/pdf2json) - converts binary PDF to JSON and text, for server-side PDF processing and command-line use. Zero dependency.
 - [JustJoostNL/F1MV-Govee-Tradfri-LightBridge](https://github.com/JustJoostNL/F1MV-Govee-Tradfri-LightBridge) - Connect your Govee and Tradfri lights to your F1MV
 - [StijnGroenen/ikea-tradfri-api](https://github.com/StijnGroenen/ikea-tradfri-api) - A Java library for communicating with IKEA TRÅDFRI devices
@@ -366,6 +365,7 @@
 - [arunabhverma/expo-blur-menu](https://github.com/arunabhverma/expo-blur-menu) - 📱 Blur Menu inspired by iMessage, using expo, blur and reanimated  🎉
 - [wix/react-native-ui-lib](https://github.com/wix/react-native-ui-lib) - UI Components Library for React Native
 - [extension-js/extension.js](https://github.com/extension-js/extension.js) - 🧩 The cross-browser extension framework.
+- [software-mansion/react-native-svg](https://github.com/software-mansion/react-native-svg) - SVG library for React Native, React Native Web, and plain React web projects.
 - [margelo/react-native-graph](https://github.com/margelo/react-native-graph) - 📈 Beautiful, high-performance Graphs and Charts for React Native built with Skia
 - [diegomura/react-pdf](https://github.com/diegomura/react-pdf) - 📄  Create PDF files using React
 - [zoontek/react-native-bootsplash](https://github.com/zoontek/react-native-bootsplash) - 🚀 Show a splash screen during app startup. Hide it when you are ready.
