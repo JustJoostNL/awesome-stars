@@ -120,6 +120,7 @@
 - [python](#python)
 - [python3](#python3)
 - [qt](#qt)
+- [rag](#rag)
 - [rails](#rails)
 - [react](#react)
 - [react-native](#react-native)
@@ -1080,6 +1081,10 @@
 
 - [PrismLauncher/PrismLauncher](https://github.com/PrismLauncher/PrismLauncher) - A custom launcher for Minecraft that allows you to easily manage multiple installations of Minecraft at once (Fork of MultiMC)
 - [CasparCG/client](https://github.com/CasparCG/client) - Client software primarily used with the CasparCG Server software for audio and video playout, to control graphics and recording, but it can also be used for other tasks within television broadcast.
+
+## rag 
+
+- [open-webui/open-webui](https://github.com/open-webui/open-webui) - User-friendly AI Interface (Supports Ollama, OpenAI API, ...)
 
 ## rails 
 
