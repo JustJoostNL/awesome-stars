@@ -143,6 +143,7 @@
 - [steveseguin/vdo.ninja](https://github.com/steveseguin/vdo.ninja) - VDO.Ninja is a powerful tool that lets you bring remote video feeds into OBS or other studio software via WebRTC.
 - [EvanBacon/expo-apple-targets](https://github.com/EvanBacon/expo-apple-targets) - Config Plugin to setup Apple targets
 - [cdsboy/mvf1remote](https://github.com/cdsboy/mvf1remote) - 
+- [mui/material-ui](https://github.com/mui/material-ui) - Material UI: Comprehensive React component library that implements Google's Material Design. Free forever.
 - [umbertoghio/self-hosted-expo-updates-server](https://github.com/umbertoghio/self-hosted-expo-updates-server) - 
 - [tdjsnelling/monaco](https://github.com/tdjsnelling/monaco) - Real-time F1 live timing & telemetry UI
 - [thedevs-network/kutt](https://github.com/thedevs-network/kutt) - Free Modern URL Shortener.
@@ -391,7 +392,6 @@
 - [prisma/prisma](https://github.com/prisma/prisma) - Next-generation ORM for Node.js & TypeScript | PostgreSQL, MySQL, MariaDB, SQL Server, SQLite, MongoDB and CockroachDB
 - [marmelab/react-admin](https://github.com/marmelab/react-admin) - A frontend Framework for single-page applications on top of REST/GraphQL APIs, using TypeScript, React and Material Design
 - [frw/react-native-ssl-public-key-pinning](https://github.com/frw/react-native-ssl-public-key-pinning) - Simple and secure SSL public key pinning for React Native. No native configuration needed, set up in &lt;5 minutes.
-- [mui/material-ui](https://github.com/mui/material-ui) - Material UI: Comprehensive React component library that implements Google's Material Design. Free forever.
 - [mrousavy/react-native-mmkv](https://github.com/mrousavy/react-native-mmkv) - ⚡️ The fastest key/value storage for React Native. ~30x faster than AsyncStorage!
 - [LapsTimeOFF/league-streaming](https://github.com/LapsTimeOFF/league-streaming) - 
 - [iptv-org/iptv](https://github.com/iptv-org/iptv) - Collection of publicly available IPTV channels from all over the world
