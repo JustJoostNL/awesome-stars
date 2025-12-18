@@ -179,6 +179,7 @@
 
 ## Others 
 
+- [exo-explore/exo](https://github.com/exo-explore/exo) - Run your own AI cluster at home with everyday devices 📱💻 🖥️⌚
 - [UberGuidoZ/Flipper-IRDB](https://github.com/UberGuidoZ/Flipper-IRDB) - A collective of different IRs for the Flipper (maintained)
 - [bacinger/f1-circuits](https://github.com/bacinger/f1-circuits) - A repository of Formula 1™ circuits in GeoJSON format.
 - [Axinom/public-test-vectors](https://github.com/Axinom/public-test-vectors) - Axinom test vectors for adaptive streaming playback and multi-DRM scenarios
@@ -216,7 +217,6 @@
 - [significa/app-distribution-server](https://github.com/significa/app-distribution-server) - Simple, self-hosted Android and iOS mobile app distribution server (for IPA and APK files).
 - [grafana/oncall](https://github.com/grafana/oncall) - Developer-friendly incident response with brilliant Slack integration
 - [polarsource/polar](https://github.com/polarsource/polar) - Turn your software into a business.
-- [exo-explore/exo](https://github.com/exo-explore/exo) - Run your own AI cluster at home with everyday devices 📱💻 🖥️⌚
 - [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) - A feature-rich command-line audio/video downloader
 - [soxoj/maigret](https://github.com/soxoj/maigret) - 🕵️‍♂️ Collect a dossier on a person by username from thousands of sites
 - [sanjoyg/dirigera_platform](https://github.com/sanjoyg/dirigera_platform) - HomeAssistant Integration for Dirigera Platform
