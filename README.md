@@ -290,6 +290,7 @@
 
 ## TypeScript 
 
+- [lpgera/dirigera](https://github.com/lpgera/dirigera) - An unofficial JavaScript/TypeScript client library for IKEA's DIRIGERA smart home hub
 - [behnamazimi/zoyla](https://github.com/behnamazimi/zoyla) - ⚡️ Fast, lightweight HTTP load testing app built with Rust for quick, reliable performance insights
 - [adnxy/rnsec](https://github.com/adnxy/rnsec) - Lightweight & Fast Security Scanner for React Native & Expo
 - [software-mansion-labs/react-native-onboarding](https://github.com/software-mansion-labs/react-native-onboarding) - Beautiful, customizable onboarding/tutorial flows for React Native 📱
