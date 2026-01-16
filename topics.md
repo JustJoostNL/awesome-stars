@@ -937,6 +937,7 @@
 
 ## others 
 
+- [MorDavid/FlareTunnel](https://github.com/MorDavid/FlareTunnel) - Proxy system that routes traffic through Cloudflare Workers for IP rotation and anonymity
 - [jeppeolesen/f1-championship-odds](https://github.com/jeppeolesen/f1-championship-odds) - This script calculates the probability of each driver winning the championship based on current standings, recent performance, and reliability metrics.
 - [software-mansion-labs/react-native-onboarding](https://github.com/software-mansion-labs/react-native-onboarding) - Beautiful, customizable onboarding/tutorial flows for React Native 📱
 - [software-mansion-labs/expo-live-activity](https://github.com/software-mansion-labs/expo-live-activity) - A library for Live Activities in React Native
