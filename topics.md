@@ -83,6 +83,7 @@
 - [kotlin](#kotlin)
 - [kubernetes](#kubernetes)
 - [laravel](#laravel)
+- [latex](#latex)
 - [library](#library)
 - [linux](#linux)
 - [llm](#llm)
@@ -329,6 +330,7 @@
 
 ## cpp 
 
+- [JoaoPauloCMarra/react-native-nitro-markdown](https://github.com/JoaoPauloCMarra/react-native-nitro-markdown) - High-performance Markdown parser for React Native using Nitro Modules and md4c
 - [margelo/react-native-quick-crypto](https://github.com/margelo/react-native-quick-crypto) - ⚡️ A fast implementation of Node's `crypto` module written in C/C++ JSI
 - [PrismLauncher/PrismLauncher](https://github.com/PrismLauncher/PrismLauncher) - A custom launcher for Minecraft that allows you to easily manage multiple installations of Minecraft at once (Fork of MultiMC)
 - [mrousavy/react-native-mmkv](https://github.com/mrousavy/react-native-mmkv) - ⚡️ The fastest key/value storage for React Native. ~30x faster than AsyncStorage!
@@ -746,6 +748,10 @@
 - [alexjustesen/speedtest-tracker](https://github.com/alexjustesen/speedtest-tracker) - Speedtest Tracker is a self-hosted application that monitors the performance and uptime of your internet connection.
 - [pelican-dev/panel](https://github.com/pelican-dev/panel) - 
 
+## latex 
+
+- [JoaoPauloCMarra/react-native-nitro-markdown](https://github.com/JoaoPauloCMarra/react-native-nitro-markdown) - High-performance Markdown parser for React Native using Nitro Modules and md4c
+
 ## library 
 
 - [margelo/react-native-graph](https://github.com/margelo/react-native-graph) - 📈 Beautiful, high-performance Graphs and Charts for React Native built with Skia
@@ -803,6 +809,7 @@
 
 ## markdown 
 
+- [JoaoPauloCMarra/react-native-nitro-markdown](https://github.com/JoaoPauloCMarra/react-native-nitro-markdown) - High-performance Markdown parser for React Native using Nitro Modules and md4c
 - [Expensify/react-native-live-markdown](https://github.com/Expensify/react-native-live-markdown) - Drop-in replacement for React Native's TextInput component with Markdown formatting.
 
 ## material-design 
@@ -941,6 +948,9 @@
 
 ## others 
 
+- [jetkvm/kvm](https://github.com/jetkvm/kvm) - JetKVM - Control any computer remotely
+- [software-mansion-labs/react-native-enriched-markdown](https://github.com/software-mansion-labs/react-native-enriched-markdown) - Markdown Text for React Native
+- [KartikLabhshetwar/better-shot](https://github.com/KartikLabhshetwar/better-shot) - An open-source alternative to CleanShot X for macOS. Capture, edit, and enhance your screenshots with professional quality.
 - [jeppeolesen/f1-championship-odds](https://github.com/jeppeolesen/f1-championship-odds) - This script calculates the probability of each driver winning the championship based on current standings, recent performance, and reliability metrics.
 - [software-mansion-labs/react-native-onboarding](https://github.com/software-mansion-labs/react-native-onboarding) - Beautiful, customizable onboarding/tutorial flows for React Native 📱
 - [software-mansion-labs/expo-live-activity](https://github.com/software-mansion-labs/expo-live-activity) - A library for Live Activities in React Native
@@ -1151,6 +1161,7 @@
 
 ## react-native 
 
+- [JoaoPauloCMarra/react-native-nitro-markdown](https://github.com/JoaoPauloCMarra/react-native-nitro-markdown) - High-performance Markdown parser for React Native using Nitro Modules and md4c
 - [callstackincubator/voltra](https://github.com/callstackincubator/voltra) - Voltra lets React Native developers build native iOS Live Activities, Dynamic Island layouts, and widgets as React components without writing Swift. It supports hot reload, push updates, and includes 
 - [margelo/react-native-nitro-fetch](https://github.com/margelo/react-native-nitro-fetch) - A super-fast network fetching library for React Native with prefetching support
 - [bamlab/react-native-app-security](https://github.com/bamlab/react-native-app-security) - Easily implement usual security measures in React Native Expo apps. Made by BAM ❤️💙💛
