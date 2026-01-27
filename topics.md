@@ -997,7 +997,7 @@
 - [flipperdevices/flipperzero-firmware](https://github.com/flipperdevices/flipperzero-firmware) - Flipper Zero firmware source code
 - [Next-Flip/Momentum-Firmware](https://github.com/Next-Flip/Momentum-Firmware) - 🐬 Feature-rich, stable and customizable Flipper Firmware
 - [Dash-Industry-Forum/livesim2](https://github.com/Dash-Industry-Forum/livesim2) - DASH Live Source Simulator v2 in Go
-- [gbumps/react-native-screenguard](https://github.com/gbumps/react-native-screenguard) - A Native screenshot blocking library for React-Native developer, with background customizable after captured. Screenshot detector are also supported.
+- [gbumps/react-native-screenguard](https://github.com/gbumps/react-native-screenguard) - A React Native library for preventing your app from screenshots and screen recordings, with powerful event detection capabilities.
 - [software-mansion/react-native-svg](https://github.com/software-mansion/react-native-svg) - SVG library for React Native, React Native Web, and plain React web projects.
 - [jolpica/jolpica-f1](https://github.com/jolpica/jolpica-f1) - 
 - [fishjam-dev/fishjam](https://github.com/fishjam-dev/fishjam) - General purpose media server. Supports WebRTC, HLS, RTSP, SIP
