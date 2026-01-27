@@ -117,7 +117,7 @@
 ## Java 
 
 - [nandorojo/burnt](https://github.com/nandorojo/burnt) - Crunchy toasts for React Native. 🍞
-- [gbumps/react-native-screenguard](https://github.com/gbumps/react-native-screenguard) - A Native screenshot blocking library for React-Native developer, with background customizable after captured. Screenshot detector are also supported.
+- [gbumps/react-native-screenguard](https://github.com/gbumps/react-native-screenguard) - A React Native library for preventing your app from screenshots and screen recordings, with powerful event detection capabilities.
 - [modesty/pdf2json](https://github.com/modesty/pdf2json) - converts binary PDF to JSON and text, for server-side PDF processing and command-line use. Zero dependency.
 - [JustJoostNL/F1MV-Govee-Tradfri-LightBridge](https://github.com/JustJoostNL/F1MV-Govee-Tradfri-LightBridge) - Connect your Govee and Tradfri lights to your F1MV
 - [StijnGroenen/ikea-tradfri-api](https://github.com/StijnGroenen/ikea-tradfri-api) - A Java library for communicating with IKEA TRÅDFRI devices
