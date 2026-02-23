@@ -376,7 +376,7 @@
 - [onmotion/react-native-autocomplete-dropdown](https://github.com/onmotion/react-native-autocomplete-dropdown) - Dropdown Item picker with search and autocomplete (typeahead) functionality for react native
 - [ionic-team/capacitor](https://github.com/ionic-team/capacitor) - Build cross-platform Native Progressive Web Apps for iOS, Android, and the Web ⚡️
 - [niklashigi/apk-mitm](https://github.com/niklashigi/apk-mitm) - 🤖 A CLI application that automatically prepares Android APK files for HTTPS inspection
-- [WrathChaos/react-native-bouncy-checkbox](https://github.com/WrathChaos/react-native-bouncy-checkbox) - Fully customizable animated bouncy checkbox for React Native
+- [kuraydev/react-native-bouncy-checkbox](https://github.com/kuraydev/react-native-bouncy-checkbox) - Fully customizable animated bouncy checkbox for React Native
 - [arunabhverma/expo-blur-menu](https://github.com/arunabhverma/expo-blur-menu) - 📱 Blur Menu inspired by iMessage, using expo, blur and reanimated  🎉
 - [wix/react-native-ui-lib](https://github.com/wix/react-native-ui-lib) - UI Components Library for React Native
 - [extension-js/extension.js](https://github.com/extension-js/extension.js) - 🧩 The cross-browser extension framework
