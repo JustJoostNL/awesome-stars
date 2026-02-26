@@ -373,7 +373,7 @@
 - [alex8088/electron-vite](https://github.com/alex8088/electron-vite) - Next generation Electron build tooling based on Vite 新一代 Electron 开发构建工具，支持源代码保护
 - [grafana/grafana](https://github.com/grafana/grafana) - The open and composable observability and data visualization platform. Visualize metrics, logs, and traces from multiple sources like Prometheus, Loki, Elasticsearch, InfluxDB, Postgres and many more.
 - [hyochan/react-native-iap](https://github.com/hyochan/react-native-iap) - In App Purchase module for React Native that confirms OpenIAP
-- [RevenueCat/react-native-purchases](https://github.com/RevenueCat/react-native-purchases) - React Native in-app purchases and subscriptions made easy. Support for iOS and Android.
+- [RevenueCat/react-native-purchases](https://github.com/RevenueCat/react-native-purchases) - React Native in-app purchases and subscriptions made easy. Support for iOS, Android and web.
 - [wxt-dev/wxt](https://github.com/wxt-dev/wxt) - ⚡ Next-gen Web Extension Framework
 - [callstack/react-native-bottom-tabs](https://github.com/callstack/react-native-bottom-tabs) - Native Bottom Tabs for React Native
 - [onmotion/react-native-autocomplete-dropdown](https://github.com/onmotion/react-native-autocomplete-dropdown) - Dropdown Item picker with search and autocomplete (typeahead) functionality for react native
