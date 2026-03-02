@@ -424,7 +424,6 @@
 - [screego/server](https://github.com/screego/server) - screen sharing for developers https://screego.net/
 - [alexjustesen/speedtest-tracker](https://github.com/alexjustesen/speedtest-tracker) - Speedtest Tracker is a self-hosted application that monitors the performance and uptime of your internet connection.
 - [qdm12/gluetun](https://github.com/qdm12/gluetun) - VPN client in a thin Docker container for multiple VPN providers, written in Go, and using OpenVPN or Wireguard, DNS over TLS, with a few proxy servers built-in.
-- [fosrl/pangolin](https://github.com/fosrl/pangolin) - Identity-aware VPN and proxy for remote access to anything, anywhere.
 - [bee-san/RustScan](https://github.com/bee-san/RustScan) - 🤖 The Modern Port Scanner 🤖
 - [phasehq/console](https://github.com/phasehq/console) - Application secrets and configuration management for developers.
 - [dockur/macos](https://github.com/dockur/macos) - MacOS inside a Docker container.
@@ -578,6 +577,7 @@
 
 ## hacktoberfest 
 
+- [axel-download-accelerator/axel](https://github.com/axel-download-accelerator/axel) - Lightweight CLI download accelerator
 - [discordjs/discord.js](https://github.com/discordjs/discord.js) - A powerful JavaScript library for interacting with the Discord API
 - [fastfetch-cli/fastfetch](https://github.com/fastfetch-cli/fastfetch) - A maintained, feature-rich and performance oriented, neofetch like system information tool.
 - [kelektiv/node-cron](https://github.com/kelektiv/node-cron) - Cron for NodeJS.
@@ -961,7 +961,7 @@
 - [jetkvm/kvm](https://github.com/jetkvm/kvm) - JetKVM - Control any computer remotely
 - [KartikLabhshetwar/better-shot](https://github.com/KartikLabhshetwar/better-shot) - An open-source alternative to CleanShot X for macOS. Capture, edit, and enhance your screenshots with professional quality.
 - [jeppeolesen/f1-championship-odds](https://github.com/jeppeolesen/f1-championship-odds) - This script calculates the probability of each driver winning the championship based on current standings, recent performance, and reliability metrics.
-- [software-mansion-labs/react-native-onboarding](https://github.com/software-mansion-labs/react-native-onboarding) - Beautiful, customizable onboarding/tutorial flows for React Native 📱
+- [software-mansion-labs/react-native-onboarding](https://github.com/software-mansion-labs/react-native-onboarding) - Simple onboarding flow for React Native 📱
 - [software-mansion-labs/expo-live-activity](https://github.com/software-mansion-labs/expo-live-activity) - A library for Live Activities in React Native
 - [shuding/cobe](https://github.com/shuding/cobe) - 5kB WebGL globe lib.
 - [iamkun/dayjs](https://github.com/iamkun/dayjs) - ⏰ Day.js 2kB immutable date-time library alternative to Moment.js with the same modern API
