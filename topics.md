@@ -705,6 +705,7 @@
 
 ## javascript 
 
+- [shaka-project/shaka-player](https://github.com/shaka-project/shaka-player) - JavaScript player library / DASH & HLS client / MSE-EME player
 - [lpgera/dirigera](https://github.com/lpgera/dirigera) - An unofficial JavaScript/TypeScript client library for IKEA's DIRIGERA smart home hub
 - [payloadcms/payload](https://github.com/payloadcms/payload) - Payload is the open-source, fullstack Next.js framework, giving you instant backend superpowers. Get a full TypeScript backend and admin panel instantly. Use Payload as a headless CMS or for building 
 - [PostHog/posthog](https://github.com/PostHog/posthog) - 🦔 PostHog is an all-in-one developer platform for building successful products. We offer product analytics, web analytics, session replay, error tracking, feature flags, experimentation, surveys, data
@@ -1454,6 +1455,7 @@
 
 ## video 
 
+- [shaka-project/shaka-player](https://github.com/shaka-project/shaka-player) - JavaScript player library / DASH & HLS client / MSE-EME player
 - [remotion-dev/remotion](https://github.com/remotion-dev/remotion) - 🎥      Make videos programmatically with React
 - [iina/iina](https://github.com/iina/iina) - The modern video player for macOS.
 - [YTLitePlus/YTLitePlus](https://github.com/YTLitePlus/YTLitePlus) - ⚠️ DEPRECATED — rewrite in progress. For now please use YTLite with tweaks by @dayanch96 instead.
