@@ -9,6 +9,7 @@
 - [C#](#c#)
 - [C++](#c++)
 - [Elixir](#elixir)
+- [Erlang](#erlang)
 - [Gherkin](#gherkin)
 - [Go](#go)
 - [HTML](#html)
@@ -72,10 +73,13 @@
 
 ## Elixir 
 
-- [software-mansion/popcorn](https://github.com/software-mansion/popcorn) - Running Elixir in the browser
 - [membraneframework/membrane_core](https://github.com/membraneframework/membrane_core) - The core of Membrane Framework, multimedia processing framework written in Elixir
 - [fishjam-dev/fishjam](https://github.com/fishjam-dev/fishjam) - General purpose media server. Supports WebRTC, HLS, RTSP, SIP
 - [elixir-webrtc/apps](https://github.com/elixir-webrtc/apps) - Example apps built on top of Elixir WebRTC
+
+## Erlang 
+
+- [software-mansion/popcorn](https://github.com/software-mansion/popcorn) - Running Elixir in the browser
 
 ## Gherkin 
 
