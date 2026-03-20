@@ -1475,11 +1475,11 @@
 
 ## vue 
 
+- [docusealco/docuseal](https://github.com/docusealco/docuseal) - Open source DocuSign alternative. Create, fill, and sign digital documents ✍️
 - [extension-js/extension.js](https://github.com/extension-js/extension.js) - The cross-browser extension framework.
 
 ## vuejs 
 
-- [docusealco/docuseal](https://github.com/docusealco/docuseal) - Open source DocuSign alternative. Create, fill, and sign digital documents ✍️
 - [WGDashboard/WGDashboard](https://github.com/WGDashboard/WGDashboard) - Simple dashboard for WireGuard VPN written in Python & Vue.js
 - [modoboa/modoboa](https://github.com/modoboa/modoboa) - Mail hosting made simple
 
