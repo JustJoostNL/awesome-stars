@@ -130,7 +130,7 @@
 - [iamkun/dayjs](https://github.com/iamkun/dayjs) - ⏰ Day.js 2kB immutable date-time library alternative to Moment.js with the same modern API
 - [lowlighter/metrics](https://github.com/lowlighter/metrics) - 📊 An infographics generator with 30+ plugins and 300+ options to display stats about your GitHub account and render them as SVG, Markdown, PDF or JSON!
 - [tj/commander.js](https://github.com/tj/commander.js) - node.js command-line interfaces made easy
-- [jaywcjlove/awesome-mac](https://github.com/jaywcjlove/awesome-mac) -  Now we have become very big, Different from the original idea. Collect premium software in various categories.
+- [jaywcjlove/awesome-mac](https://github.com/jaywcjlove/awesome-mac) -  This project is dedicated to collecting high-quality macOS software and organizing them systematically by different categories for easy search and use.
 - [chalk/chalk](https://github.com/chalk/chalk) - 🖍 Terminal string styling done right
 - [DevLARLEY/WidevineProxy2](https://github.com/DevLARLEY/WidevineProxy2) - An extension-based proxy for Widevine EME challenges and license messages. Modifies the challenge before it reaches the web player. Bypasses Hashes, one-time-tokens and license wrapping.
 - [FoxRefire/wvg](https://github.com/FoxRefire/wvg) - Chrome/Firefox extension for pen-testing to retrieve encryption keys of Widevine protected content !DON'T DECRYPT CONTENT UNLESS YOU HAVE THE RIGHT TO DO IT!
