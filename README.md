@@ -158,6 +158,7 @@
 
 ## Kotlin 
 
+- [software-mansion/pulsar](https://github.com/software-mansion/pulsar) - ✨ Pulsar: Rich and ready-to-use haptics library
 - [software-mansion-labs/react-native-enriched-markdown](https://github.com/software-mansion-labs/react-native-enriched-markdown) - Markdown Input & Text for React Native
 - [okwasniewski/react-native-emoji-popup](https://github.com/okwasniewski/react-native-emoji-popup) - Native Emoji Picker for React Native
 - [react-native-menu/menu](https://github.com/react-native-menu/menu) - UIMenu Component for React Native
