@@ -298,7 +298,7 @@
 
 - [webadderallorg/Recordly](https://github.com/webadderallorg/Recordly) - Create polished screen recordings without editing. Mac/Windows/Linux
 - [seerr-team/seerr](https://github.com/seerr-team/seerr) - Open-source media request and discovery manager for Jellyfin, Plex, and Emby.
-- [Guccio163/react-native-reshuffled](https://github.com/Guccio163/react-native-reshuffled) - 
+- [Guccio163/react-native-reshuffled](https://github.com/Guccio163/react-native-reshuffled) - The quickest React Native library for grid layouts
 - [emdash-cms/emdash](https://github.com/emdash-cms/emdash) - EmDash is a full-stack TypeScript CMS based on Astro; the spiritual successor to WordPress
 - [EvanBacon/create-symbol](https://github.com/EvanBacon/create-symbol) - Create SF Symbols from SVGs
 - [47ng/nuqs](https://github.com/47ng/nuqs) - Type-safe search params state manager for React frameworks - Like useState, but stored in the URL query string.
