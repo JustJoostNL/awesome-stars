@@ -29,7 +29,6 @@
 - [Swift](#swift)
 - [TypeScript](#typescript)
 - [Vue](#vue)
-- [Zig](#zig)
 
 ## C 
 
@@ -54,6 +53,7 @@
 
 ## C++ 
 
+- [margelo/react-native-nitro-fetch](https://github.com/margelo/react-native-nitro-fetch) - A super-fast network fetching library for React Native with prefetching support
 - [shaka-project/shaka-packager](https://github.com/shaka-project/shaka-packager) - A media packaging and development framework for VOD and Live DASH and HLS applications, supporting Common Encryption for Widevine and other DRM Systems.
 - [margelo/react-native-skottie](https://github.com/margelo/react-native-skottie) - ▶️ Efficient lottie animations using Skia's Skottie module
 - [PrismLauncher/PrismLauncher](https://github.com/PrismLauncher/PrismLauncher) - A custom launcher for Minecraft that allows you to easily manage multiple installations of Minecraft at once (Fork of MultiMC)
@@ -253,6 +253,7 @@
 - [DefGuard/defguard](https://github.com/DefGuard/defguard) - Zero-Trust access management with true WireGuard® 2FA/MFA
 - [tauri-apps/tauri](https://github.com/tauri-apps/tauri) - Build smaller, faster, and more secure desktop and mobile applications with a web frontend.
 - [software-mansion/smelter](https://github.com/software-mansion/smelter) - Toolkit for real-time, low latency, programmable video and audio mixing.
+- [oven-sh/bun](https://github.com/oven-sh/bun) - Incredibly fast JavaScript runtime, bundler, test runner, and package manager – all in one
 - [pionxzh/wakaru](https://github.com/pionxzh/wakaru) - 🔪📦 Javascript decompiler for modern frontend
 - [MindFlavor/prometheus_wireguard_exporter](https://github.com/MindFlavor/prometheus_wireguard_exporter) - A Prometheus exporter for WireGuard, written in Rust.
 - [dani-garcia/vaultwarden](https://github.com/dani-garcia/vaultwarden) - Unofficial Bitwarden compatible server written in Rust, formerly known as bitwarden_rs
@@ -322,7 +323,6 @@
 - [software-mansion-labs/react-native-onboarding](https://github.com/software-mansion-labs/react-native-onboarding) - Simple onboarding flow for React Native 📱
 - [toon-format/toon](https://github.com/toon-format/toon) - 🎒 Token-Oriented Object Notation (TOON) – Compact, human-readable, schema-aware JSON for LLM prompts. Spec, benchmarks, TypeScript SDK.
 - [mountain-loop/yaak](https://github.com/mountain-loop/yaak) - The most intuitive desktop API client. Organize and execute REST, GraphQL, WebSockets, Server Sent Events, and gRPC 🦬
-- [margelo/react-native-nitro-fetch](https://github.com/margelo/react-native-nitro-fetch) - A super-fast network fetching library for React Native with prefetching support
 - [payloadcms/payload](https://github.com/payloadcms/payload) - Payload is the open-source, fullstack Next.js framework, giving you instant backend superpowers. Get a full TypeScript backend and admin panel instantly. Use Payload as a headless CMS or for building 
 - [software-mansion-labs/expo-live-activity](https://github.com/software-mansion-labs/expo-live-activity) - A library for Live Activities in React Native
 - [discordjs/discord.js](https://github.com/discordjs/discord.js) - A powerful JavaScript library for interacting with the Discord API
@@ -365,7 +365,7 @@
 - [animate-react-native/accordion](https://github.com/animate-react-native/accordion) - A React Native Accordion component, powered by React Native Reanimated layout animation that's capable of rendering and animating content that has a dynamic height.
 - [MaxAst/expo-share-extension](https://github.com/MaxAst/expo-share-extension) - Expo config plugin for creating iOS share extensions with a custom view.
 - [blake-simpson/expo-jwt](https://github.com/blake-simpson/expo-jwt) - Encode and decode JSON Web Tokens (JWT) in an Expo based React Native project.
-- [LegendApp/legend-list](https://github.com/LegendApp/legend-list) - A high-performance list component for React Native
+- [LegendApp/legend-list](https://github.com/LegendApp/legend-list) - A high-performance list component for React Native and React
 - [Vencord/Vesktop](https://github.com/Vencord/Vesktop) - Vesktop is a custom Discord App aiming to give you better performance and improve linux support
 - [xavia-io/xavia-ota](https://github.com/xavia-io/xavia-ota) - A self-hosted Over-The-Air (OTA) updates server for Expo/RN applications that gives you complete control over your app's update distribution.
 - [openstatusHQ/openstatus](https://github.com/openstatusHQ/openstatus) - 🫖 Status page with uptime monitoring & API monitoring as code   🫖
@@ -446,10 +446,6 @@
 
 - [inovector/mixpost](https://github.com/inovector/mixpost) - 📅 Schedule, 📢 publish, and ⚡ manage your social media content on your server. No subscriptions, no limits. (Buffer alternative)
 - [WGDashboard/WGDashboard](https://github.com/WGDashboard/WGDashboard) - Simple dashboard for WireGuard VPN written in Python & Vue.js
-
-## Zig 
-
-- [oven-sh/bun](https://github.com/oven-sh/bun) - Incredibly fast JavaScript runtime, bundler, test runner, and package manager – all in one
 
 
 ## License
