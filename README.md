@@ -53,6 +53,7 @@
 
 ## C++ 
 
+- [pioner92/react-native-ultra-base64](https://github.com/pioner92/react-native-ultra-base64) - ⚡ The fastest base64 encoding/decoding library for React Native. Up to 10x faster with optimized C++ and JSI bindings.
 - [margelo/react-native-nitro-fetch](https://github.com/margelo/react-native-nitro-fetch) - A super-fast network fetching library for React Native with prefetching support
 - [shaka-project/shaka-packager](https://github.com/shaka-project/shaka-packager) - A media packaging and development framework for VOD and Live DASH and HLS applications, supporting Common Encryption for Widevine and other DRM Systems.
 - [margelo/react-native-skottie](https://github.com/margelo/react-native-skottie) - ▶️ Efficient lottie animations using Skia's Skottie module
@@ -387,7 +388,7 @@
 - [wxt-dev/wxt](https://github.com/wxt-dev/wxt) - ⚡ Next-gen Web Extension Framework
 - [callstack/react-native-bottom-tabs](https://github.com/callstack/react-native-bottom-tabs) - Native Bottom Tabs for React Native
 - [onmotion/react-native-autocomplete-dropdown](https://github.com/onmotion/react-native-autocomplete-dropdown) - Dropdown Item picker with search and autocomplete (typeahead) functionality for react native
-- [doublesymmetry/react-native-track-player](https://github.com/doublesymmetry/react-native-track-player) - The best audio player ever built for React Native. Built on the New Architecture — Android Auto, caching, preloading, background playback, and more.
+- [doublesymmetry/react-native-track-player](https://github.com/doublesymmetry/react-native-track-player) - The best audio player for React Native. Built on the New Architecture — Android Auto, caching, preloading, background playback, and more.
 - [ionic-team/capacitor](https://github.com/ionic-team/capacitor) - Build cross-platform Native Progressive Web Apps for iOS, Android, and the Web ⚡️
 - [niklashigi/apk-mitm](https://github.com/niklashigi/apk-mitm) - 🤖 A CLI application that automatically prepares Android APK files for HTTPS inspection
 - [kuraydev/react-native-bouncy-checkbox](https://github.com/kuraydev/react-native-bouncy-checkbox) - Fully customizable animated bouncy checkbox for React Native
