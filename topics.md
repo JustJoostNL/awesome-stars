@@ -77,6 +77,7 @@
 - [html](#html)
 - [http](#http)
 - [https](#https)
+- [image-processing](#image-processing)
 - [information-gathering](#information-gathering)
 - [ios](#ios)
 - [iot](#iot)
@@ -666,6 +667,10 @@
 ## https 
 
 - [FiloSottile/mkcert](https://github.com/FiloSottile/mkcert) - A simple zero-config tool to make locally trusted development certificates with any names you'd like.
+
+## image-processing 
+
+- [ImageMagick/ImageMagick](https://github.com/ImageMagick/ImageMagick) - ImageMagick is a free, open-source software suite for creating, editing, converting, and displaying images. It supports 200+ formats and offers powerful command-line tools and APIs for automation, scr
 
 ## information-gathering 
 
