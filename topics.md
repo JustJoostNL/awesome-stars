@@ -154,6 +154,7 @@
 - [tailwindcss](#tailwindcss)
 - [telegram](#telegram)
 - [terminal](#terminal)
+- [trading](#trading)
 - [tui](#tui)
 - [typescript](#typescript)
 - [ubuntu](#ubuntu)
@@ -1242,6 +1243,7 @@
 
 ## react-native 
 
+- [brandtnewlabs/react-native-livechart](https://github.com/brandtnewlabs/react-native-livechart) - High-performance live line & candlestick charts for React Native, built on Skia and Reanimated.
 - [margelo/react-native-runtimes](https://github.com/margelo/react-native-runtimes) - Run heavy React Native components and business logic in isolated Hermes runtimes (without freezing your main JS thread)
 - [pioner92/react-native-ultra-base64](https://github.com/pioner92/react-native-ultra-base64) - ⚡ The fastest base64 encoding/decoding library for React Native. Up to 10x faster with optimized C++ and JSI bindings.
 - [arunabhverma/expo-paste-input](https://github.com/arunabhverma/expo-paste-input) - Cross-platform native paste handling for React Native.
@@ -1474,6 +1476,10 @@
 - [chalk/chalk](https://github.com/chalk/chalk) - 🖍 Terminal string styling done right
 - [dlvhdr/gh-dash](https://github.com/dlvhdr/gh-dash) - A rich terminal UI for GitHub that doesn't break your flow.
 
+## trading 
+
+- [brandtnewlabs/react-native-livechart](https://github.com/brandtnewlabs/react-native-livechart) - High-performance live line & candlestick charts for React Native, built on Skia and Reanimated.
+
 ## tui 
 
 - [JustAman62/undercut-f1](https://github.com/JustAman62/undercut-f1) - F1 Live Timing TUI for all F1 sessions with variable delay to sync to your TV. Supports replaying previously recorded sessions.
@@ -1481,6 +1487,7 @@
 
 ## typescript 
 
+- [brandtnewlabs/react-native-livechart](https://github.com/brandtnewlabs/react-native-livechart) - High-performance live line & candlestick charts for React Native, built on Skia and Reanimated.
 - [ente-io/ente](https://github.com/ente-io/ente) - 💚 End-to-end encrypted cloud for everything.
 - [trpc/trpc](https://github.com/trpc/trpc) - 🧙‍♀️  Move Fast and Break Nothing. End-to-end typesafe APIs made easy.
 - [emdash-cms/emdash](https://github.com/emdash-cms/emdash) - EmDash is a full-stack TypeScript CMS based on Astro; the spiritual successor to WordPress
