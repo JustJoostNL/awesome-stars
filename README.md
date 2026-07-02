@@ -222,7 +222,7 @@
 - [tlkh/asitop](https://github.com/tlkh/asitop) - Perf monitoring CLI tool for Apple Silicon
 - [significa/app-distribution-server](https://github.com/significa/app-distribution-server) - Simple, self-hosted Android and iOS mobile app distribution server (for IPA and APK files).
 - [grafana-cold-storage/oncall](https://github.com/grafana-cold-storage/oncall) - Developer-friendly incident response with brilliant Slack integration
-- [polarsource/polar](https://github.com/polarsource/polar) - Turn your software into a business.
+- [polarsource/polar](https://github.com/polarsource/polar) - Polar — A billing platform for the intelligence era
 - [exo-explore/exo](https://github.com/exo-explore/exo) - Run frontier AI locally.
 - [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) - A feature-rich command-line audio/video downloader
 - [soxoj/maigret](https://github.com/soxoj/maigret) - 🕵️‍♂️ Collect a dossier on a person by username from 3000+ sites
@@ -283,6 +283,7 @@
 
 ## Swift 
 
+- [gmi-software/react-native-better-maps](https://github.com/gmi-software/react-native-better-maps) - Faster, typed maps for React Native, built on Nitro Modules
 - [Lakr233/Asspp](https://github.com/Lakr233/Asspp) - The App Store for your multi-account eco system.
 - [mysk-research/loupe](https://github.com/mysk-research/loupe) - A privacy-focused iOS app that raises awareness about what native apps can see
 - [TableProApp/TablePro](https://github.com/TableProApp/TablePro) - Free and open source database client built natively for developers
