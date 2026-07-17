@@ -218,7 +218,7 @@
 - [leminlimez/Nugget](https://github.com/leminlimez/Nugget) - Unlock the fullest potential of your device
 - [GVCoder09/NoDPI](https://github.com/GVCoder09/NoDPI) - NoDPI is a utility for bypassing the DPI (Deep Packet Inspection)
 - [jeppeolesen/f1-championship-odds](https://github.com/jeppeolesen/f1-championship-odds) - This script calculates the probability of each driver winning the championship based on current standings, recent performance, and reliability metrics.
-- [PostHog/posthog](https://github.com/PostHog/posthog) - 🦔 PostHog is an all-in-one developer platform for building successful products. We offer product analytics, web analytics, session replay, error tracking, feature flags, experimentation, surveys, data
+- [PostHog/posthog](https://github.com/PostHog/posthog) - :hedgehog: PostHog is the leading platform for building self-driving products. Our developer tools – AI observability, analytics, session replay, flags, experiments, error tracking, logs, and more – c
 - [tlkh/asitop](https://github.com/tlkh/asitop) - Perf monitoring CLI tool for Apple Silicon
 - [significa/app-distribution-server](https://github.com/significa/app-distribution-server) - Simple, self-hosted Android and iOS mobile app distribution server (for IPA and APK files).
 - [grafana-cold-storage/oncall](https://github.com/grafana-cold-storage/oncall) - Developer-friendly incident response with brilliant Slack integration
