@@ -91,6 +91,7 @@
 
 ## Go 
 
+- [mercuretechnologies/expo-open-ota](https://github.com/mercuretechnologies/expo-open-ota) - An open-source self-hosted server implementing the Expo Updates protocol, built for production. Multi-app dashboard, progressive rollouts, instant rollbacks, served from your own bucket and CDN.
 - [traefik/traefik](https://github.com/traefik/traefik) - The Cloud Native Application Proxy
 - [databasus/databasus](https://github.com/databasus/databasus) - PostgreSQL backup tool with Point-In-Time-Recovery and restore verification
 - [screego/server](https://github.com/screego/server) - screen sharing for developers https://screego.net/
