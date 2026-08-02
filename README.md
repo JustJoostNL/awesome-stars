@@ -91,7 +91,7 @@
 
 ## Go 
 
-- [mercuretechnologies/expo-open-ota](https://github.com/mercuretechnologies/expo-open-ota) - An open-source self-hosted server implementing the Expo Updates protocol, built for production. Multi-app dashboard, progressive rollouts, instant rollbacks, served from your own bucket and CDN.
+- [mercuretechnologies/xprem](https://github.com/mercuretechnologies/xprem) - Open-source, self-hosted OTA Updates alternative to EAS Update, on the official Expo Updates protocol. Multi-app dashboard, progressive rollouts, instant rollbacks, and per-update crashes, metrics and
 - [traefik/traefik](https://github.com/traefik/traefik) - The Cloud Native Application Proxy
 - [databasus/databasus](https://github.com/databasus/databasus) - PostgreSQL backup tool with Point-In-Time-Recovery and restore verification
 - [screego/server](https://github.com/screego/server) - screen sharing for developers https://screego.net/
@@ -112,7 +112,7 @@
 - [FiloSottile/mkcert](https://github.com/FiloSottile/mkcert) - A simple zero-config tool to make locally trusted development certificates with any names you'd like.
 - [nektos/act](https://github.com/nektos/act) - Run your GitHub Actions locally 🚀
 - [getfider/fider](https://github.com/getfider/fider) - Open platform to collect and prioritize feedback
-- [bytebase/bytebase](https://github.com/bytebase/bytebase) - The standard of database governance. Govern changes and access across every major database type - by humans and agents.
+- [bytebase/bytebase](https://github.com/bytebase/bytebase) - Database governance built for humans and agents — controlling changes and access across every major database.
 - [getanteon/anteon](https://github.com/getanteon/anteon) - Anteon (formerly Ddosify): eBPF-based Kubernetes Monitoring and Performance Testing
 - [owasp-amass/amass](https://github.com/owasp-amass/amass) - In-depth attack surface mapping and asset discovery
 
@@ -284,6 +284,7 @@
 
 ## Swift 
 
+- [peetzweg/opendisplay](https://github.com/peetzweg/opendisplay) - Free, open-source Sidecar/Duet alternative — use your iPhone or iPad as a true second monitor for your Mac over USB or WiFi. Low latency H.264, Retina HiDPI, touch input.
 - [robinebers/openusage](https://github.com/robinebers/openusage) - Burning through your subscriptions too fast? Paying for stuff you never use? Stop guessing. OpenUsage is free and open source.
 - [gmi-software/react-native-better-maps](https://github.com/gmi-software/react-native-better-maps) - Faster, typed maps for React Native, built on Nitro Modules
 - [Lakr233/Asspp](https://github.com/Lakr233/Asspp) - The App Store for your multi-account eco system.
