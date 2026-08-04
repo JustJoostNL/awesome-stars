@@ -213,7 +213,7 @@
 - [streamyfin/streamyfin](https://github.com/streamyfin/streamyfin) - A modern Jellyfin client built with Expo
 - [alabsi91/reanimated-color-picker](https://github.com/alabsi91/reanimated-color-picker) - A Pure JavaScript Color Picker for React Native
 - [douglasjunior/react-native-simple-dialogs](https://github.com/douglasjunior/react-native-simple-dialogs) - ⚛ Cross-platform React Native dialogs based on the Modal component
-- [AppAndFlow/react-native-safe-area-context](https://github.com/AppAndFlow/react-native-safe-area-context) - A flexible way to handle safe area insets in JS. Also works on Android and Web!
+- [appandflow/react-native-safe-area-context](https://github.com/appandflow/react-native-safe-area-context) - A flexible way to handle safe area insets in JS. Also works on Android and Web!
 - [lodev09/react-native-true-sheet](https://github.com/lodev09/react-native-true-sheet) - The true native bottom sheet experience 💩
 - [okwasniewski/MiniSim](https://github.com/okwasniewski/MiniSim) - MacOS menu bar app for launching iOS  and Android 🤖 emulators
 - [EvanBacon/pillar-valley](https://github.com/EvanBacon/pillar-valley) - 👾A cross-platform video game built with Expo and three.js
@@ -710,7 +710,7 @@
 - [alabsi91/reanimated-color-picker](https://github.com/alabsi91/reanimated-color-picker) - A Pure JavaScript Color Picker for React Native
 - [react-native-menu/menu](https://github.com/react-native-menu/menu) - UIMenu Component for React Native
 - [douglasjunior/react-native-simple-dialogs](https://github.com/douglasjunior/react-native-simple-dialogs) - ⚛ Cross-platform React Native dialogs based on the Modal component
-- [AppAndFlow/react-native-safe-area-context](https://github.com/AppAndFlow/react-native-safe-area-context) - A flexible way to handle safe area insets in JS. Also works on Android and Web!
+- [appandflow/react-native-safe-area-context](https://github.com/appandflow/react-native-safe-area-context) - A flexible way to handle safe area insets in JS. Also works on Android and Web!
 - [lodev09/react-native-true-sheet](https://github.com/lodev09/react-native-true-sheet) - The true native bottom sheet experience 💩
 - [MaxAst/expo-share-extension](https://github.com/MaxAst/expo-share-extension) - Expo config plugin for creating iOS share extensions with a custom view.
 - [okwasniewski/MiniSim](https://github.com/okwasniewski/MiniSim) - MacOS menu bar app for launching iOS  and Android 🤖 emulators
@@ -1232,7 +1232,7 @@
 - [polarsource/polar](https://github.com/polarsource/polar) - Polar — A billing platform for the intelligence era
 - [mui/toolpad](https://github.com/mui/toolpad) - ⚠️ 𝐍𝐨𝐭 𝐚𝐜𝐭𝐢𝐯𝐞𝐥𝐲 𝐦𝐚𝐢𝐧𝐭𝐚𝐢𝐧𝐞𝐝 Toolpad: Full stack components and low-code builder for dashboards and internal apps.
 - [vercel/swr](https://github.com/vercel/swr) - React Hooks for Data Fetching
-- [AppAndFlow/react-native-safe-area-context](https://github.com/AppAndFlow/react-native-safe-area-context) - A flexible way to handle safe area insets in JS. Also works on Android and Web!
+- [appandflow/react-native-safe-area-context](https://github.com/appandflow/react-native-safe-area-context) - A flexible way to handle safe area insets in JS. Also works on Android and Web!
 - [opennextjs/opennextjs-cloudflare](https://github.com/opennextjs/opennextjs-cloudflare) - Open Next.js adapter for Cloudflare
 - [flipt-io/flipt](https://github.com/flipt-io/flipt) - Enterprise-ready, Git native feature management solution
 - [phasehq/console](https://github.com/phasehq/console) - Application secrets and configuration management for developers.
@@ -1286,7 +1286,7 @@
 - [react-native-menu/menu](https://github.com/react-native-menu/menu) - UIMenu Component for React Native
 - [douglasjunior/react-native-simple-dialogs](https://github.com/douglasjunior/react-native-simple-dialogs) - ⚛ Cross-platform React Native dialogs based on the Modal component
 - [vercel/swr](https://github.com/vercel/swr) - React Hooks for Data Fetching
-- [AppAndFlow/react-native-safe-area-context](https://github.com/AppAndFlow/react-native-safe-area-context) - A flexible way to handle safe area insets in JS. Also works on Android and Web!
+- [appandflow/react-native-safe-area-context](https://github.com/appandflow/react-native-safe-area-context) - A flexible way to handle safe area insets in JS. Also works on Android and Web!
 - [lodev09/react-native-true-sheet](https://github.com/lodev09/react-native-true-sheet) - The true native bottom sheet experience 💩
 - [animate-react-native/accordion](https://github.com/animate-react-native/accordion) - A React Native Accordion component, powered by React Native Reanimated layout animation that's capable of rendering and animating content that has a dynamic height.
 - [margelo/react-native-skottie](https://github.com/margelo/react-native-skottie) - ▶️ Efficient lottie animations using Skia's Skottie module
@@ -1598,7 +1598,7 @@
 - [elysiajs/elysia](https://github.com/elysiajs/elysia) - Ergonomic Framework for Humans
 - [biomejs/biome](https://github.com/biomejs/biome) - A toolchain for web projects, aimed to provide functionalities to maintain them. Biome offers formatter and linter, usable via CLI and LSP.
 - [alabsi91/reanimated-color-picker](https://github.com/alabsi91/reanimated-color-picker) - A Pure JavaScript Color Picker for React Native
-- [AppAndFlow/react-native-safe-area-context](https://github.com/AppAndFlow/react-native-safe-area-context) - A flexible way to handle safe area insets in JS. Also works on Android and Web!
+- [appandflow/react-native-safe-area-context](https://github.com/appandflow/react-native-safe-area-context) - A flexible way to handle safe area insets in JS. Also works on Android and Web!
 - [RevenueCat/react-native-purchases](https://github.com/RevenueCat/react-native-purchases) - React Native in-app purchases and subscriptions made easy. Support for iOS, Android and web.
 - [expo/expo](https://github.com/expo/expo) - An open-source framework for making universal native apps with React. Expo runs on Android, iOS, and the web.
 
