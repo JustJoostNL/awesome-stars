@@ -579,7 +579,7 @@
 
 ## go 
 
-- [mercuretechnologies/xprem](https://github.com/mercuretechnologies/xprem) - Open-source, self-hosted OTA Updates alternative to EAS Update, on the official Expo Updates protocol. Multi-app dashboard, progressive rollouts, instant rollbacks, and per-update crashes, metrics and
+- [mercuretechnologies/xprem](https://github.com/mercuretechnologies/xprem) - Self-hosted Expo OTA Updates alternative to EAS Update, on the official Expo Updates protocol. Multi-app dashboard, progressive rollouts, instant rollbacks, and per-update crashes, metrics and logs fr
 - [traefik/traefik](https://github.com/traefik/traefik) - The Cloud Native Application Proxy
 - [screego/server](https://github.com/screego/server) - screen sharing for developers https://screego.net/
 - [flipt-io/flipt](https://github.com/flipt-io/flipt) - Enterprise-ready, Git native feature management solution
@@ -595,7 +595,7 @@
 
 ## golang 
 
-- [mercuretechnologies/xprem](https://github.com/mercuretechnologies/xprem) - Open-source, self-hosted OTA Updates alternative to EAS Update, on the official Expo Updates protocol. Multi-app dashboard, progressive rollouts, instant rollbacks, and per-update crashes, metrics and
+- [mercuretechnologies/xprem](https://github.com/mercuretechnologies/xprem) - Self-hosted Expo OTA Updates alternative to EAS Update, on the official Expo Updates protocol. Multi-app dashboard, progressive rollouts, instant rollbacks, and per-update crashes, metrics and logs fr
 - [ente/ente](https://github.com/ente/ente) - 💚 End-to-end encrypted cloud for everything.
 - [traefik/traefik](https://github.com/traefik/traefik) - The Cloud Native Application Proxy
 - [databasus/databasus](https://github.com/databasus/databasus) - PostgreSQL backup tool with Point-In-Time-Recovery and restore verification
@@ -1267,7 +1267,7 @@
 ## react-native 
 
 - [ammarahm-ed/react-native-workers](https://github.com/ammarahm-ed/react-native-workers) - Real threads for React Native. Web Worker–style API, backed by a separate Hermes runtime on its own thread — with structured-clone messaging, timers, shared memory, and full native-module access.
-- [mercuretechnologies/xprem](https://github.com/mercuretechnologies/xprem) - Open-source, self-hosted OTA Updates alternative to EAS Update, on the official Expo Updates protocol. Multi-app dashboard, progressive rollouts, instant rollbacks, and per-update crashes, metrics and
+- [mercuretechnologies/xprem](https://github.com/mercuretechnologies/xprem) - Self-hosted Expo OTA Updates alternative to EAS Update, on the official Expo Updates protocol. Multi-app dashboard, progressive rollouts, instant rollbacks, and per-update crashes, metrics and logs fr
 - [gmi-software/react-native-better-maps](https://github.com/gmi-software/react-native-better-maps) - Faster, typed maps for React Native, built on Nitro Modules
 - [brandtnewlabs/react-native-livechart](https://github.com/brandtnewlabs/react-native-livechart) - High-performance live line & candlestick charts for React Native, built on Skia and Reanimated.
 - [margelo/react-native-runtimes](https://github.com/margelo/react-native-runtimes) - Run heavy React Native components and business logic in isolated Hermes runtimes (without freezing your main JS thread)
