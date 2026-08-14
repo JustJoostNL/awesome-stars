@@ -90,7 +90,7 @@
 
 ## Go 
 
-- [mercuretechnologies/xprem](https://github.com/mercuretechnologies/xprem) - Open-source, self-hosted OTA Updates alternative to EAS Update, on the official Expo Updates protocol. Multi-app dashboard, progressive rollouts, instant rollbacks, and per-update crashes, metrics and
+- [mercuretechnologies/xprem](https://github.com/mercuretechnologies/xprem) - Self-hosted Expo OTA Updates alternative to EAS Update, on the official Expo Updates protocol. Multi-app dashboard, progressive rollouts, instant rollbacks, and per-update crashes, metrics and logs fr
 - [traefik/traefik](https://github.com/traefik/traefik) - The Cloud Native Application Proxy
 - [databasus/databasus](https://github.com/databasus/databasus) - PostgreSQL backup tool with Point-In-Time-Recovery and restore verification
 - [screego/server](https://github.com/screego/server) - screen sharing for developers https://screego.net/
