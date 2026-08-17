@@ -197,7 +197,7 @@
 ## PHP 
 
 - [alexjustesen/speedtest-tracker](https://github.com/alexjustesen/speedtest-tracker) - Speedtest Tracker is a self-hosted application that monitors the performance and uptime of your internet connection.
-- [pelican-dev/panel](https://github.com/pelican-dev/panel) - 
+- [pelican/panel](https://github.com/pelican/panel) - 
 - [YOURLS/YOURLS](https://github.com/YOURLS/YOURLS) - 🔗 The 𝘥𝘦 𝘧𝘢𝘤𝘵𝘰 standard, self hosted, powerful and customizable, URL shortener in PHP
 - [shlinkio/shlink](https://github.com/shlinkio/shlink) - The definitive self-hosted URL shortener
 - [Ctrlpanel-gg/panel](https://github.com/Ctrlpanel-gg/panel) - Free, easy-to-use billing solution for hosting providers with seamless Pterodactyl Panel integration
