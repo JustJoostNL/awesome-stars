@@ -472,7 +472,7 @@
 - [bee-san/RustScan](https://github.com/bee-san/RustScan) - 🤖 The Modern Port Scanner 🤖
 - [phasehq/console](https://github.com/phasehq/console) - Secrets management for teams and AI agents.
 - [dockur/macos](https://github.com/dockur/macos) - MacOS inside a Docker container.
-- [pelican-dev/panel](https://github.com/pelican-dev/panel) - 
+- [pelican/panel](https://github.com/pelican/panel) - 
 - [TwiN/gatus](https://github.com/TwiN/gatus) - Automated developer-oriented status page with alerting and incident support
 - [verdaccio/verdaccio](https://github.com/verdaccio/verdaccio) - A lightweight Node.js private proxy registry
 - [outline/outline](https://github.com/outline/outline) - The fastest knowledge base for growing teams. Beautiful, realtime collaborative, feature packed, and markdown compatible.
@@ -556,7 +556,7 @@
 ## game 
 
 - [EvanBacon/pillar-valley](https://github.com/EvanBacon/pillar-valley) - 👾A cross-platform video game built with Expo and three.js
-- [pelican-dev/panel](https://github.com/pelican-dev/panel) - 
+- [pelican/panel](https://github.com/pelican/panel) - 
 
 ## games 
 
@@ -653,7 +653,7 @@
 - [flipt-io/flipt](https://github.com/flipt-io/flipt) - Enterprise-ready, Git native feature management solution
 - [okwasniewski/MiniSim](https://github.com/okwasniewski/MiniSim) - MacOS menu bar app for launching iOS  and Android 🤖 emulators
 - [bluewave-labs/Checkmate](https://github.com/bluewave-labs/Checkmate) - Checkmate is an open-source, self-hosted tool designed to track and monitor server hardware, uptime, response times, and incidents in real-time with beautiful visualizations. Don't be shy, join here: 
-- [pelican-dev/panel](https://github.com/pelican-dev/panel) - 
+- [pelican/panel](https://github.com/pelican/panel) - 
 - [grafana/grafana](https://github.com/grafana/grafana) - The open and composable observability and data visualization platform. Visualize metrics, logs, and traces from multiple sources like Prometheus, Loki, Elasticsearch, InfluxDB, Postgres and many more.
 - [grafana/loki](https://github.com/grafana/loki) - Like Prometheus, but for logs.
 - [callstack/react-native-bottom-tabs](https://github.com/callstack/react-native-bottom-tabs) - Native Bottom Tabs for React Native
@@ -821,7 +821,7 @@
 
 - [inovector/mixpost](https://github.com/inovector/mixpost) - 📅 Schedule, 📢 publish, and ⚡ manage your social media content on your server. No subscriptions, no limits. (Buffer alternative)
 - [alexjustesen/speedtest-tracker](https://github.com/alexjustesen/speedtest-tracker) - Speedtest Tracker is a self-hosted application that monitors the performance and uptime of your internet connection.
-- [pelican-dev/panel](https://github.com/pelican-dev/panel) - 
+- [pelican/panel](https://github.com/pelican/panel) - 
 - [Ctrlpanel-gg/panel](https://github.com/Ctrlpanel-gg/panel) - Free, easy-to-use billing solution for hosting providers with seamless Pterodactyl Panel integration
 
 ## latex 
@@ -1163,7 +1163,7 @@
 ## php 
 
 - [inovector/mixpost](https://github.com/inovector/mixpost) - 📅 Schedule, 📢 publish, and ⚡ manage your social media content on your server. No subscriptions, no limits. (Buffer alternative)
-- [pelican-dev/panel](https://github.com/pelican-dev/panel) - 
+- [pelican/panel](https://github.com/pelican/panel) - 
 - [YOURLS/YOURLS](https://github.com/YOURLS/YOURLS) - 🔗 The 𝘥𝘦 𝘧𝘢𝘤𝘵𝘰 standard, self hosted, powerful and customizable, URL shortener in PHP
 - [shlinkio/shlink](https://github.com/shlinkio/shlink) - The definitive self-hosted URL shortener
 - [Ctrlpanel-gg/panel](https://github.com/Ctrlpanel-gg/panel) - Free, easy-to-use billing solution for hosting providers with seamless Pterodactyl Panel integration
@@ -1434,7 +1434,7 @@
 
 - [elysiajs/elysia](https://github.com/elysiajs/elysia) - Ergonomic Framework for Humans
 - [nuver-labs/vps-audit](https://github.com/nuver-labs/vps-audit) - lightweight, dependency-free bash script for security, performance auditing and infrastructure monitoring of Linux servers.
-- [pelican-dev/panel](https://github.com/pelican-dev/panel) - 
+- [pelican/panel](https://github.com/pelican/panel) - 
 
 ## shell 
 
