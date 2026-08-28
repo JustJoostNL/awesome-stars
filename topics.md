@@ -1102,7 +1102,7 @@
 - [Next-Flip/Momentum-Firmware](https://github.com/Next-Flip/Momentum-Firmware) - 🐬 Feature-rich, stable and customizable Flipper Firmware
 - [Dash-Industry-Forum/livesim2](https://github.com/Dash-Industry-Forum/livesim2) - DASH Live Source Simulator v2 in Go
 - [software-mansion/react-native-svg](https://github.com/software-mansion/react-native-svg) - SVG library for React Native, React Native Web, and plain React web projects.
-- [jolpica/jolpica-f1](https://github.com/jolpica/jolpica-f1) - 
+- [jolpica/jolpica-f1](https://github.com/jolpica/jolpica-f1) - Free & Open Source Formula 1 Racing API
 - [metrue/EdgeQL](https://github.com/metrue/EdgeQL) - GraphQL on Edge
 - [wizarrrr/wizarr](https://github.com/wizarrrr/wizarr) - Wizarr is an advanced user invitation and management system for Jellyfin, Plex, Emby etc.
 - [getfider/fider](https://github.com/getfider/fider) - Open platform to collect and prioritize feedback
