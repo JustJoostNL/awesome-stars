@@ -229,7 +229,7 @@
 - [dirkhh/adsb-feeder-image](https://github.com/dirkhh/adsb-feeder-image) - Easy to use turn-key SD card image for a number of popular single board computers to run a complete ADS-B feeder
 - [open-webui/open-webui](https://github.com/open-webui/open-webui) - User-friendly AI Interface (Supports Ollama, OpenAI API, ...)
 - [goauthentik/authentik](https://github.com/goauthentik/authentik) - The authentication glue you need.
-- [jolpica/jolpica-f1](https://github.com/jolpica/jolpica-f1) - 
+- [jolpica/jolpica-f1](https://github.com/jolpica/jolpica-f1) - Free & Open Source Formula 1 Racing API
 - [wizarrrr/wizarr](https://github.com/wizarrrr/wizarr) - Wizarr is an advanced user invitation and management system for Jellyfin, Plex, Emby etc.
 - [sensepost/objection](https://github.com/sensepost/objection) - 📱 objection - runtime mobile exploration
 - [avgupta456/github-trends](https://github.com/avgupta456/github-trends) - 🚀 Level up your GitHub profile readme with customizable cards including LOC statistics!
