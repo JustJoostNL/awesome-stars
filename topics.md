@@ -206,6 +206,7 @@
 ## android 
 
 - [ammarahm-ed/react-native-workers](https://github.com/ammarahm-ed/react-native-workers) - Real threads for React Native. Web Worker–style API, backed by a separate Hermes runtime on its own thread — with structured-clone messaging, timers, shared memory, and full native-module access.
+- [gmi-software/react-native-better-maps](https://github.com/gmi-software/react-native-better-maps) - Faster, typed maps for React Native, built on Nitro Modules
 - [ente/ente](https://github.com/ente/ente) - 💚 End-to-end encrypted cloud for everything.
 - [significa/app-distribution-server](https://github.com/significa/app-distribution-server) - Simple, self-hosted Android and iOS mobile app distribution server (for IPA and APK files).
 - [skiptools/skip](https://github.com/skiptools/skip) - Skip enables the creation of native SwiftUI apps for iOS and Android
@@ -254,6 +255,7 @@
 ## automation 
 
 - [blacklanternsecurity/bbot](https://github.com/blacklanternsecurity/bbot) - The recursive internet scanner for hackers. 🧡
+- [KartikLabhshetwar/better-shot](https://github.com/KartikLabhshetwar/better-shot) - Screenshot, screen recording, and video editor for macOS. Native SwiftUI app with capture deck, 75+ customizable shortcuts, URL scheme automation, and self-hosted cloud sharing. Open-source alternativ
 - [lowlighter/metrics](https://github.com/lowlighter/metrics) - 📊 An infographics generator with 30+ plugins and 300+ options to display stats about your GitHub account and render them as SVG, Markdown, PDF or JSON!
 
 ## awesome 
@@ -706,6 +708,7 @@
 
 - [peripheryapp/periphery](https://github.com/peripheryapp/periphery) - A tool to identify unused code in Swift projects.
 - [ammarahm-ed/react-native-workers](https://github.com/ammarahm-ed/react-native-workers) - Real threads for React Native. Web Worker–style API, backed by a separate Hermes runtime on its own thread — with structured-clone messaging, timers, shared memory, and full native-module access.
+- [gmi-software/react-native-better-maps](https://github.com/gmi-software/react-native-better-maps) - Faster, typed maps for React Native, built on Nitro Modules
 - [ente/ente](https://github.com/ente/ente) - 💚 End-to-end encrypted cloud for everything.
 - [callstackincubator/voltra](https://github.com/callstackincubator/voltra) - Voltra lets React Native developers build native iOS Live Activities, Dynamic Island layouts, and widgets as React components without writing Swift. It supports hot reload, push updates, and includes 
 - [permissionlesstech/bitchat](https://github.com/permissionlesstech/bitchat) - bluetooth mesh chat, IRC vibes
@@ -869,7 +872,7 @@
 - [webadderallorg/Recordly](https://github.com/webadderallorg/Recordly) - Create polished demo videos without editing skills. Mac/Windows/Linux
 - [sparkle-project/Sparkle](https://github.com/sparkle-project/Sparkle) - A software update framework for macOS
 - [TableProApp/TablePro](https://github.com/TableProApp/TablePro) - Free and open source database client built natively for developers
-- [KartikLabhshetwar/better-shot](https://github.com/KartikLabhshetwar/better-shot) - One app for the whole screen. Screenshots, screen recording, and a video editor, native on macOS. Open-source CleanShot X + Loom alternative. No subscription, no account, no telemetry.
+- [KartikLabhshetwar/better-shot](https://github.com/KartikLabhshetwar/better-shot) - Screenshot, screen recording, and video editor for macOS. Native SwiftUI app with capture deck, 75+ customizable shortcuts, URL scheme automation, and self-hosted cloud sharing. Open-source alternativ
 - [marlkiller/dylib_dobby_hook](https://github.com/marlkiller/dylib_dobby_hook) - A macOS/IOS dylib project , aimed at enhancing and extending the functionality of target software.
 - [sdushantha/tmpmail](https://github.com/sdushantha/tmpmail) - A temporary email right from your terminal written in POSIX sh
 - [permissionlesstech/bitchat](https://github.com/permissionlesstech/bitchat) - bluetooth mesh chat, IRC vibes
@@ -1008,6 +1011,7 @@
 
 - [webadderallorg/Recordly](https://github.com/webadderallorg/Recordly) - Create polished demo videos without editing skills. Mac/Windows/Linux
 - [siddharthvaddem/openscreen](https://github.com/siddharthvaddem/openscreen) - Create stunning demos for free. Open-source, no subscriptions, no watermarks, and free for commercial use. An alternative to Screen Studio.
+- [KartikLabhshetwar/better-shot](https://github.com/KartikLabhshetwar/better-shot) - Screenshot, screen recording, and video editor for macOS. Native SwiftUI app with capture deck, 75+ customizable shortcuts, URL scheme automation, and self-hosted cloud sharing. Open-source alternativ
 - [payloadcms/payload](https://github.com/payloadcms/payload) - Payload is the open-source, fullstack Next.js framework, giving you instant backend superpowers. Get a full TypeScript backend and admin panel instantly. Use Payload as a headless CMS or for building 
 - [CodeEditApp/CodeEdit](https://github.com/CodeEditApp/CodeEdit) - 📝 CodeEdit App for macOS – Elevate your code editing experience. Open source, free forever.
 - [CapSoftware/Cap](https://github.com/CapSoftware/Cap) - Open source Loom alternative. Beautiful, shareable screen recordings.
@@ -1179,6 +1183,7 @@
 
 - [ente/ente](https://github.com/ente/ente) - 💚 End-to-end encrypted cloud for everything.
 - [AprilNEA/OpenLogi](https://github.com/AprilNEA/OpenLogi) - ⚡️A native, local-first alternative to Logitech Options+, written in Rust 🦀 — remap buttons, DPI, and SmartShift over HID++. No account, no telemetry.
+- [KartikLabhshetwar/better-shot](https://github.com/KartikLabhshetwar/better-shot) - Screenshot, screen recording, and video editor for macOS. Native SwiftUI app with capture deck, 75+ customizable shortcuts, URL scheme automation, and self-hosted cloud sharing. Open-source alternativ
 - [screego/server](https://github.com/screego/server) - screen sharing for developers https://screego.net/
 - [Mail-0/Zero](https://github.com/Mail-0/Zero) - Experience email the way you want with Mail0 – the first open source email app that puts your privacy and safety first. Join the discord: https://mail0.link/discord
 - [gbumps/react-native-screenguard](https://github.com/gbumps/react-native-screenguard) - A React Native library for preventing your app from screenshots and screen recordings, with powerful event detection capabilities.
@@ -1474,9 +1479,10 @@
 - [peripheryapp/periphery](https://github.com/peripheryapp/periphery) - A tool to identify unused code in Swift projects.
 - [peetzweg/opendisplay](https://github.com/peetzweg/opendisplay) - Free, open-source Sidecar/Duet alternative — use your iPhone or iPad as a true second monitor for your Mac over USB or WiFi. Low latency H.264, Retina HiDPI, touch input.
 - [TableProApp/TablePro](https://github.com/TableProApp/TablePro) - Free and open source database client built natively for developers
-- [KartikLabhshetwar/better-shot](https://github.com/KartikLabhshetwar/better-shot) - One app for the whole screen. Screenshots, screen recording, and a video editor, native on macOS. Open-source CleanShot X + Loom alternative. No subscription, no account, no telemetry.
+- [KartikLabhshetwar/better-shot](https://github.com/KartikLabhshetwar/better-shot) - Screenshot, screen recording, and video editor for macOS. Native SwiftUI app with capture deck, 75+ customizable shortcuts, URL scheme automation, and self-hosted cloud sharing. Open-source alternativ
 - [permissionlesstech/bitchat](https://github.com/permissionlesstech/bitchat) - bluetooth mesh chat, IRC vibes
 - [MonitorControl/MonitorControl](https://github.com/MonitorControl/MonitorControl) - 🖥 Control your display's brightness & volume on your Mac as if it was a native Apple Display. Use Apple Keyboard keys or custom shortcuts. Shows the native macOS OSDs.
+- [jaywcjlove/awesome-mac](https://github.com/jaywcjlove/awesome-mac) -  This project is dedicated to collecting high-quality macOS software and organizing them systematically by different categories for easy search and use.
 - [xtool-org/xtool](https://github.com/xtool-org/xtool) - Cross-platform Xcode replacement. Build and deploy iOS apps with SwiftPM on Linux, Windows, macOS.
 - [CodeEditApp/CodeEdit](https://github.com/CodeEditApp/CodeEdit) - 📝 CodeEdit App for macOS – Elevate your code editing experience. Open source, free forever.
 - [skiptools/skip](https://github.com/skiptools/skip) - Skip enables the creation of native SwiftUI apps for iOS and Android
@@ -1493,7 +1499,8 @@
 ## swiftui 
 
 - [TableProApp/TablePro](https://github.com/TableProApp/TablePro) - Free and open source database client built natively for developers
-- [KartikLabhshetwar/better-shot](https://github.com/KartikLabhshetwar/better-shot) - One app for the whole screen. Screenshots, screen recording, and a video editor, native on macOS. Open-source CleanShot X + Loom alternative. No subscription, no account, no telemetry.
+- [KartikLabhshetwar/better-shot](https://github.com/KartikLabhshetwar/better-shot) - Screenshot, screen recording, and video editor for macOS. Native SwiftUI app with capture deck, 75+ customizable shortcuts, URL scheme automation, and self-hosted cloud sharing. Open-source alternativ
+- [jaywcjlove/awesome-mac](https://github.com/jaywcjlove/awesome-mac) -  This project is dedicated to collecting high-quality macOS software and organizing them systematically by different categories for easy search and use.
 - [CodeEditApp/CodeEdit](https://github.com/CodeEditApp/CodeEdit) - 📝 CodeEdit App for macOS – Elevate your code editing experience. Open source, free forever.
 - [rrroyal/Harbour](https://github.com/rrroyal/Harbour) - Docker/Portainer management app for iOS, iPadOS and macOS.
 - [EvanBacon/expo-apple-targets](https://github.com/EvanBacon/expo-apple-targets) - Config Plugin to setup Apple targets
@@ -1536,6 +1543,7 @@
 
 - [oxc-project/oxc](https://github.com/oxc-project/oxc) - ⚓ A collection of high-performance JavaScript tools.
 - [ammarahm-ed/react-native-workers](https://github.com/ammarahm-ed/react-native-workers) - Real threads for React Native. Web Worker–style API, backed by a separate Hermes runtime on its own thread — with structured-clone messaging, timers, shared memory, and full native-module access.
+- [gmi-software/react-native-better-maps](https://github.com/gmi-software/react-native-better-maps) - Faster, typed maps for React Native, built on Nitro Modules
 - [brandtnewlabs/react-native-livechart](https://github.com/brandtnewlabs/react-native-livechart) - High-performance live line & candlestick charts for React Native, built on Skia and Reanimated.
 - [ente/ente](https://github.com/ente/ente) - 💚 End-to-end encrypted cloud for everything.
 - [trpc/trpc](https://github.com/trpc/trpc) - 🧙‍♀️  Move Fast and Break Nothing. End-to-end typesafe APIs made easy.
