@@ -10,7 +10,6 @@
 - [C++](#c++)
 - [Dart](#dart)
 - [Elixir](#elixir)
-- [Erlang](#erlang)
 - [Gherkin](#gherkin)
 - [Go](#go)
 - [Java](#java)
@@ -78,12 +77,9 @@
 
 ## Elixir 
 
+- [software-mansion/popcorn](https://github.com/software-mansion/popcorn) - Running Elixir in the browser
 - [membraneframework/membrane_core](https://github.com/membraneframework/membrane_core) - The core of Membrane Framework, multimedia processing framework written in Elixir
 - [elixir-webrtc/apps](https://github.com/elixir-webrtc/apps) - Example apps built on top of Elixir WebRTC
-
-## Erlang 
-
-- [software-mansion/popcorn](https://github.com/software-mansion/popcorn) - Running Elixir in the browser
 
 ## Gherkin 
 
@@ -286,7 +282,6 @@
 - [peripheryapp/periphery](https://github.com/peripheryapp/periphery) - A tool to identify unused code in Swift projects.
 - [peetzweg/opendisplay](https://github.com/peetzweg/opendisplay) - Free, open-source Sidecar/Duet alternative — use your iPhone or iPad as a true second monitor for your Mac over USB or WiFi. Low latency H.264, Retina HiDPI, touch input.
 - [robinebers/openusage](https://github.com/robinebers/openusage) - Burning through your subscriptions too fast? Paying for stuff you never use? Stop guessing. OpenUsage is free and open source.
-- [gmi-software/react-native-better-maps](https://github.com/gmi-software/react-native-better-maps) - Faster, typed maps for React Native, built on Nitro Modules
 - [Lakr233/Asspp](https://github.com/Lakr233/Asspp) - The App Store for your multi-account eco system.
 - [mysk-research/loupe](https://github.com/mysk-research/loupe) - A privacy-focused iOS app that raises awareness about what native apps can see
 - [TableProApp/TablePro](https://github.com/TableProApp/TablePro) - Free and open source database client built natively for developers
@@ -315,6 +310,7 @@
 
 - [anomalyco/opencode](https://github.com/anomalyco/opencode) - The open source coding agent.
 - [ammarahm-ed/react-native-workers](https://github.com/ammarahm-ed/react-native-workers) - Real threads for React Native. Web Worker–style API, backed by a separate Hermes runtime on its own thread — with structured-clone messaging, timers, shared memory, and full native-module access.
+- [gmi-software/react-native-better-maps](https://github.com/gmi-software/react-native-better-maps) - Faster, typed maps for React Native, built on Nitro Modules
 - [kuatsu/react-native-boost](https://github.com/kuatsu/react-native-boost) - 🚀 Boost your React Native app's performance with a single line of code
 - [blakeblackshear/frigate](https://github.com/blakeblackshear/frigate) - NVR with realtime local object detection for IP cameras
 - [software-mansion-labs/react-native-moq](https://github.com/software-mansion-labs/react-native-moq) - MOQ for React Native
