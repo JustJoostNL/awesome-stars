@@ -97,7 +97,7 @@
 - [flipt-io/flipt](https://github.com/flipt-io/flipt) - Enterprise-ready, Git native feature management solution
 - [AlexxIT/go2rtc](https://github.com/AlexxIT/go2rtc) - Ultimate camera streaming application
 - [MightyMoud/sidekick](https://github.com/MightyMoud/sidekick) - Bare metal to production ready in mins; your own fly server on your VPS.
-- [majd/ipatool](https://github.com/majd/ipatool) - Command-line tool that allows searching and downloading app packages (known as ipa files) for iOS, iPadOS, tvOS, and visionOS from the App Store.
+- [majd/ipatool](https://github.com/majd/ipatool) - Command-line tool that allows you to search for iOS, iPadOS, tvOS, visionOS, and macOS apps on the App Store, and download .ipa or macOS .pkg app packages.
 - [grafana/loki](https://github.com/grafana/loki) - Like Prometheus, but for logs.
 - [centrifugal/centrifugo](https://github.com/centrifugal/centrifugo) - Scalable real-time messaging server in a language-agnostic way. Self-hosted alternative to Pubnub, Pusher, Ably, socket.io, Phoenix.PubSub, SignalR. Set up once and forever.
 - [Dash-Industry-Forum/livesim2](https://github.com/Dash-Industry-Forum/livesim2) - DASH Live Source Simulator v2 in Go
@@ -311,7 +311,7 @@
 - [anomalyco/opencode](https://github.com/anomalyco/opencode) - The open source coding agent.
 - [ammarahm-ed/react-native-workers](https://github.com/ammarahm-ed/react-native-workers) - Real threads for React Native. Web Worker–style API, backed by a separate Hermes runtime on its own thread — with structured-clone messaging, timers, shared memory, and full native-module access.
 - [gmi-software/react-native-better-maps](https://github.com/gmi-software/react-native-better-maps) - Faster, typed maps for React Native, built on Nitro Modules
-- [kuatsu/react-native-boost](https://github.com/kuatsu/react-native-boost) - 🚀 Boost your React Native app's performance with a single line of code
+- [kuatsu/react-native-boost](https://github.com/kuatsu/react-native-boost) - ⚡️ The React Native performance compiler.
 - [blakeblackshear/frigate](https://github.com/blakeblackshear/frigate) - NVR with realtime local object detection for IP cameras
 - [software-mansion-labs/react-native-moq](https://github.com/software-mansion-labs/react-native-moq) - MOQ for React Native
 - [brandtnewlabs/react-native-livechart](https://github.com/brandtnewlabs/react-native-livechart) - High-performance live line & candlestick charts for React Native, built on Skia and Reanimated.
