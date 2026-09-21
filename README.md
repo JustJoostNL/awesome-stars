@@ -277,6 +277,7 @@
 
 ## Swift 
 
+- [Kruszoneq/macUSB](https://github.com/Kruszoneq/macUSB) - The all-in-one bootable USB creator for Mac
 - [peripheryapp/periphery](https://github.com/peripheryapp/periphery) - A tool to identify unused code in Swift projects.
 - [peetzweg/opendisplay](https://github.com/peetzweg/opendisplay) - Free, open-source Sidecar/Duet alternative — use your iPhone, iPad or Mac as a true second monitor for your primary Mac over USB or WiFi. Low latency H.264, Retina HiDPI, touch input.
 - [robinebers/openusage](https://github.com/robinebers/openusage) - Burning through your subscriptions too fast? Paying for stuff you never use? Stop guessing. OpenUsage is free and open source.
