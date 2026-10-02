@@ -87,6 +87,7 @@
 
 ## Go 
 
+- [rorkai/App-Store-Connect-CLI](https://github.com/rorkai/App-Store-Connect-CLI) - Fast, scriptable CLI for the App Store Connect API. Automate TestFlight, builds, submissions, signing, analytics, screenshots, subscriptions, and more
 - [mercuretechnologies/xprem](https://github.com/mercuretechnologies/xprem) - Self-hosted Expo OTA Updates alternative to EAS Update, on the official Expo Updates protocol. Multi-app dashboard, progressive rollouts, instant rollbacks, and per-update crashes, metrics and logs fr
 - [traefik/traefik](https://github.com/traefik/traefik) - The Cloud Native Application Proxy
 - [screego/server](https://github.com/screego/server) - screen sharing for developers https://screego.net/
@@ -207,6 +208,7 @@
 
 ## Python 
 
+- [blakeblackshear/frigate](https://github.com/blakeblackshear/frigate) - NVR with realtime local object detection for IP cameras
 - [CloakHQ/CloakBrowser](https://github.com/CloakHQ/CloakBrowser) - Stealth Chromium that passes every bot detection test. Drop-in Playwright replacement with source-level fingerprint patches. 30/30 tests passed.
 - [blacklanternsecurity/bbot](https://github.com/blacklanternsecurity/bbot) - The recursive internet scanner for hackers. 🧡
 - [leminlimez/Nugget](https://github.com/leminlimez/Nugget) - Unlock the fullest potential of your device
@@ -312,7 +314,6 @@
 - [ammarahm-ed/react-native-workers](https://github.com/ammarahm-ed/react-native-workers) - Real threads for React Native. Web Worker–style API, backed by a separate Hermes runtime on its own thread — with structured-clone messaging, timers, shared memory, and full native-module access.
 - [gmi-software/react-native-better-maps](https://github.com/gmi-software/react-native-better-maps) - Faster, typed maps for React Native, built on Nitro Modules
 - [kuatsu/react-native-boost](https://github.com/kuatsu/react-native-boost) - ⚡️ The React Native performance compiler.
-- [blakeblackshear/frigate](https://github.com/blakeblackshear/frigate) - NVR with realtime local object detection for IP cameras
 - [software-mansion-labs/react-native-moq](https://github.com/software-mansion-labs/react-native-moq) - MOQ for React Native
 - [brandtnewlabs/react-native-livechart](https://github.com/brandtnewlabs/react-native-livechart) - High-performance live line & candlestick charts for React Native, built on Skia and Reanimated.
 - [margelo/react-native-runtimes](https://github.com/margelo/react-native-runtimes) - Run heavy React Native components and business logic in isolated Hermes runtimes (without freezing your main JS thread)
