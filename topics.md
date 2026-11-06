@@ -268,6 +268,7 @@
 - [trpc/trpc](https://github.com/trpc/trpc) - 🧙‍♀️  Move Fast and Break Nothing. End-to-end typesafe APIs made easy.
 - [keygen-sh/keygen-api](https://github.com/keygen-sh/keygen-api) - Keygen is a modern, fair source software licensing and distribution API. For developers, by developers.
 - [public-apis/public-apis](https://github.com/public-apis/public-apis) - A collective list of free APIs
+- [br-g/openf1](https://github.com/br-g/openf1) - OpenF1 API - Real-time and historical Formula 1 data
 
 ## artificial-intelligence 
 
@@ -1100,7 +1101,6 @@
 - [EvanBacon/create-symbol](https://github.com/EvanBacon/create-symbol) - Create SF Symbols from SVGs
 - [shaka-project/shaka-player](https://github.com/shaka-project/shaka-player) - JavaScript player library / DASH & HLS client / MSE-EME player
 - [cloudflare/vinext](https://github.com/cloudflare/vinext) - Vite plugin that reimplements the Next.js API surface — deploy anywhere
-- [blackboardsh/electrobun](https://github.com/blackboardsh/electrobun) - Build ultra fast, tiny, and cross-platform desktop apps with TypeScript, Zig, Rust, Go, or Odin.
 - [leminlimez/Nugget](https://github.com/leminlimez/Nugget) - Unlock the fullest potential of your device
 - [jetkvm/kvm](https://github.com/jetkvm/kvm) - Control any computer remotely
 - [jeppeolesen/f1-championship-odds](https://github.com/jeppeolesen/f1-championship-odds) - This script calculates the probability of each driver winning the championship based on current standings, recent performance, and reliability metrics.
@@ -1154,7 +1154,6 @@
 - [Axinom/public-test-vectors](https://github.com/Axinom/public-test-vectors) - Axinom test vectors for adaptive streaming playback and multi-DRM scenarios
 - [numworks/epsilon](https://github.com/numworks/epsilon) - Modern graphing calculator operating system.
 - [arichornlover/uYouEnhanced](https://github.com/arichornlover/uYouEnhanced) - uYouEnhanced (by @arichornlover) is a continuation of uYou+ (made by @qnblackcat) with so much more features and mainly built for sideloaded users!
-- [br-g/openf1](https://github.com/br-g/openf1) - OpenF1 API - Real-time and historical Formula 1 data
 - [cdsboy/mvf1remote](https://github.com/cdsboy/mvf1remote) - 
 - [TheWidlarzGroup/react-native-video](https://github.com/TheWidlarzGroup/react-native-video) - A &lt;Video /&gt; component for react-native
 - [umbertoghio/self-hosted-expo-updates-server](https://github.com/umbertoghio/self-hosted-expo-updates-server) - 
@@ -1254,6 +1253,7 @@
 - [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) - A feature-rich command-line audio/video downloader
 - [soxoj/maigret](https://github.com/soxoj/maigret) - 🕵️‍♂️ Collect a dossier on a person by username from 6K websites
 - [WGDashboard/WGDashboard](https://github.com/WGDashboard/WGDashboard) - Simple dashboard for WireGuard VPN written in Python & Vue.js
+- [br-g/openf1](https://github.com/br-g/openf1) - OpenF1 API - Real-time and historical Formula 1 data
 
 ## python3 
 
@@ -1403,6 +1403,7 @@
 
 ## rest-api 
 
+- [br-g/openf1](https://github.com/br-g/openf1) - OpenF1 API - Real-time and historical Formula 1 data
 - [shlinkio/shlink](https://github.com/shlinkio/shlink) - The definitive self-hosted URL shortener
 
 ## reverse-engineering 
