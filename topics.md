@@ -179,6 +179,7 @@
 - [web3](#web3)
 - [webpack](#webpack)
 - [website](#website)
+- [whatsapp](#whatsapp)
 - [windows](#windows)
 - [xcode](#xcode)
 - [youtube](#youtube)
@@ -1695,6 +1696,10 @@
 ## website 
 
 - [EvanBacon/pillar-valley](https://github.com/EvanBacon/pillar-valley) - 👾A cross-platform video game built with Expo and three.js
+
+## whatsapp 
+
+- [mlomb/chat-analytics](https://github.com/mlomb/chat-analytics) - Generate interactive, beautiful and insightful chat analysis reports
 
 ## windows 
 
