@@ -224,6 +224,7 @@
 - [soxoj/maigret](https://github.com/soxoj/maigret) - 🕵️‍♂️ Collect a dossier on a person by username from 6K websites
 - [sanjoyg/dirigera_platform](https://github.com/sanjoyg/dirigera_platform) - HomeAssistant Integration for Dirigera Platform
 - [dirkhh/adsb-feeder-image](https://github.com/dirkhh/adsb-feeder-image) - Easy to use turn-key SD card image for a number of popular single board computers to run a complete ADS-B feeder
+- [phasehq/console](https://github.com/phasehq/console) - Secrets management for teams and AI agents.
 - [goauthentik/authentik](https://github.com/goauthentik/authentik) - The authentication glue you need.
 - [jolpica/jolpica-f1](https://github.com/jolpica/jolpica-f1) - Free & Open Source Formula 1 Racing API
 - [wizarrrr/wizarr](https://github.com/wizarrrr/wizarr) - Wizarr is an advanced user invitation and management system for Jellyfin, Plex, Emby etc.
@@ -389,7 +390,6 @@
 - [Vencord/Vesktop](https://github.com/Vencord/Vesktop) - Vesktop is a custom Discord App aiming to give you better performance and improve linux support
 - [xavia-io/xavia-ota](https://github.com/xavia-io/xavia-ota) - A self-hosted Over-The-Air (OTA) updates server for Expo/RN applications that gives you complete control over your app's update distribution.
 - [openstatusHQ/openstatus](https://github.com/openstatusHQ/openstatus) - Open-source status page, incident response and uptime monitoring
-- [phasehq/console](https://github.com/phasehq/console) - Secrets management for teams and AI agents.
 - [Infisical/infisical](https://github.com/Infisical/infisical) - Infisical is the open-source platform for securing secrets, certificates, access, and AI Agents.
 - [EvanBacon/pillar-valley](https://github.com/EvanBacon/pillar-valley) - 👾A cross-platform video game built with Expo and three.js
 - [EvanBacon/expo-quick-actions](https://github.com/EvanBacon/expo-quick-actions) - Add home screen quick actions / shortcuts and custom icons to your Expo app
