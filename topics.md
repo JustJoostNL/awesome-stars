@@ -79,6 +79,7 @@
 - [golang](#golang)
 - [good-first-issue](#good-first-issue)
 - [graphql](#graphql)
+- [gui](#gui)
 - [hacking](#hacking)
 - [hacktoberfest](#hacktoberfest)
 - [home-assistant](#home-assistant)
@@ -678,6 +679,10 @@
 - [marmelab/react-admin](https://github.com/marmelab/react-admin) - A frontend Framework for single-page applications on top of REST/GraphQL APIs, using TypeScript, React and Material Design
 - [Just-Moh-it/Pckd](https://github.com/Just-Moh-it/Pckd) - The ⚡️ analytics-intensive, self-hostable link-shortener with a beautiful UI | AKA free bit.ly alternative 🚀
 
+## gui 
+
+- [tauri-apps/tauri](https://github.com/tauri-apps/tauri) - Build smaller, faster, and more secure desktop and mobile applications with a web frontend.
+
 ## hacking 
 
 - [blacklanternsecurity/bbot](https://github.com/blacklanternsecurity/bbot) - The recursive internet scanner for hackers. 🧡
@@ -977,6 +982,7 @@
 
 ## mobile 
 
+- [tauri-apps/tauri](https://github.com/tauri-apps/tauri) - Build smaller, faster, and more secure desktop and mobile applications with a web frontend.
 - [kuraydev/react-native-bouncy-checkbox](https://github.com/kuraydev/react-native-bouncy-checkbox) - Fully customizable animated bouncy checkbox for React Native
 - [sensepost/objection](https://github.com/sensepost/objection) - 📱 objection - runtime mobile exploration
 - [react/react-native](https://github.com/react/react-native) - A framework for building native applications using React
