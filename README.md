@@ -161,7 +161,6 @@
 - [software-mansion/pulsar](https://github.com/software-mansion/pulsar) - ✨ Pulsar: Rich and ready-to-use haptics library
 - [software-mansion/enriched-markdown](https://github.com/software-mansion/enriched-markdown) - Multiplatform Markdown-Based Rich Text Solution
 - [okwasniewski/react-native-emoji-popup](https://github.com/okwasniewski/react-native-emoji-popup) - Native Emoji Picker for React Native
-- [react-native-menu/menu](https://github.com/react-native-menu/menu) - UIMenu Component for React Native
 - [JetBrains/swot](https://github.com/JetBrains/swot) - Identify email addresses or domains names that belong to colleges or universities. Help automate the process of approving or rejecting academic discounts.
 - [leonardoxh/race-control-tv](https://github.com/leonardoxh/race-control-tv) - Android TV app for F1 TV
 
@@ -305,6 +304,7 @@
 - [Code-with-Beto/quick-push](https://github.com/Code-with-Beto/quick-push) - A lightweight macOS menu bar utility for quickly testing Expo push notifications
 - [iina/iina](https://github.com/iina/iina) - The modern video player for macOS.
 - [jaywcjlove/create-custom-symbols](https://github.com/jaywcjlove/create-custom-symbols) - A tool that can convert any SVG icon into a custom SF symbol. Your customized SF symbol can be imported into Xcode and utilized in any project based on UIKit or SwiftUI.
+- [react-native-menu/menu](https://github.com/react-native-menu/menu) - UIMenu Component for React Native
 - [okwasniewski/MiniSim](https://github.com/okwasniewski/MiniSim) - MacOS menu bar app for launching iOS  and Android 🤖 emulators
 - [rrroyal/Harbour](https://github.com/rrroyal/Harbour) - Docker/Portainer management app for iOS, iPadOS and macOS.
 - [NitrogenZLab/ting](https://github.com/NitrogenZLab/ting) - 🍞 Flexible and customizable React Native toast/alert notifications with support for positioning, custom rendering, click handlers, and duration control. Written in Swift and Kotlin
